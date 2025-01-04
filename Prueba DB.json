@@ -2099,6 +2099,282 @@
                                 "1/100"
                             ],
                             "answer": "b"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Desde una torre bastante alta, se deja caer una piedra en el tiempo cero, y otra en el tiempo 1 s. En el tiempo 3 s la distancia aproximada que separa a las piedras es de g=10 m/s2:",
+                            "options": [
+                                "20 m",
+                                "10 m",
+                                "40 m",
+                                "25 m",
+                                "30 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2017 1P SR",
+                            "question": "Un clavadista de 65 kg se lanza desde un trampolín que está a 8 m sobre la superficie; entonces la velocidad del clavadista a 3 m sobre la superficie será en m/s, (g = 10 m/s2):",
+                            "options": [
+                                "8",
+                                "9",
+                                "12",
+                                "11",
+                                "10"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2017 1P SR",
+                            "question": "Dos proyectiles iguales son lanzados de la misma posición (40 m por encima del suelo), verticalmente en sentidos opuestos y con la misma velocidad. En 2 s, el primer proyectil llega al suelo. ¿Después de cuánto tiempo de la llegada del primero, el segundo llegará al suelo? (Desprecie cualquier rozamiento y considere g = 10 m/s2):",
+                            "options": [
+                                "1 s",
+                                "2 s",
+                                "3 s",
+                                "4 s",
+                                "5 s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2017",
+                            "question": "Una partícula en caída libre, a partir del reposo, tiene velocidad de 30 m/s después de un tiempo t, y en el instante 2t llega al suelo. Adopte g= 10 m/s2 y desprecie la resistencia del aire. La altura desde la cual fue abandonada, en relación al suelo, es de:",
+                            "options": [
+                                "360 m",
+                                "180 m",
+                                "30 m",
+                                "10 m",
+                                "3 m"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2018 1P, 2018 1P SR",
+                            "question": "Un cuerpo es abandonado en el vacío, sin velocidad inicial. Si en el último segundo de su caída recorrió 25 m, podemos concluir que fue abandonado desde una altura aproximadamente igual a: (considere g = 10 m/s2)",
+                            "options": [
+                                "25 m",
+                                "50 m",
+                                "20 m",
+                                "45 m",
+                                "100 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P SR",
+                            "question": "Se deja caer una esfera desde la azotea de un edificio cuya altura es 30 m. suponiendo que la esfera se deja caer en t = 0 s. En el intervalo que va desde t = 1 s hasta t = 2 s. ¿qué distancia recorrió la esfera en ese tiempo?",
+                            "options": [
+                                "14,7 m",
+                                "28,2 m",
+                                "147 m",
+                                "282 m",
+                                "18 m"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2018",
+                            "question": "Si se suelta una piedra, esta recorre 20 m en los dos primeros segundos. Hallar la altura que desciende en los tres segundos siguientes (g = 10 m/s2)",
+                            "options": [
+                                "105 m",
+                                "125 m",
+                                "75 m",
+                                "150 m",
+                                "55 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018, 2019 SR",
+                            "question": "Un cuerpo es soltado desde una altura H y la recorre en 12 s. ¿Cuánto tardó en recorrer la primera mitad de H?",
+                            "options": [
+                                "32 s",
+                                "42 s",
+                                "52 s",
+                                "62 s",
+                                "7 s"
+                            ],
+                            "answer": "e"
+                        },
+                        {
+                            "year": "2018",
+                            "question": "Un globo aerostático viaja verticalmente hacia arriba con una velocidad constante de 5 m/s. Cuando está a 15 m sobre el suelo se abandona un paquete desde el globo, ¿Cuánto tiempo permanece el paquete en el aire? Considere g=10 m/s2",
+                            "options": [
+                                "1,73 s",
+                                "1,3 s",
+                                "2,3 s",
+                                "3,7 s",
+                                "4,5 s"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2019 1P, 2019 1P SR",
+                            "question": "Se dispara un cohete verticalmente hacia arriba y sube con una aceleración vertical constante de a = 19,6 m/s2 durante 1 min. En ese momento agota su combustible y sube como partícula libre. ¿Cuál es el tiempo total, en segundos, transcurrido desde el instante en que despega el cohete hasta que regresa al suelo?",
+                            "options": [
+                                "120",
+                                "267",
+                                "327",
+                                "180",
+                                "357"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2019 1P, 2019 1P SR",
+                            "question": "Un estudiante lanza una caja con llaves verticalmente hacia arriba, a su hermana ubicada en una ventana de un club femenino a 4 metros de altura sobre el nivel del piso. La hermana atrapa la caja 1,5 segundos después de haber sido lanzada. ¿Cuál es la velocidad inicial, en m/s, con que fue lanzada la caja de llaves? Considerar g = 10 m/s2.",
+                            "options": [
+                                "8,2",
+                                "9,2",
+                                "10,2",
+                                "11,2",
+                                "12,2"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2019 1P",
+                            "question": "Un geólogo se encuentra parado sobre una ladera vertical de una altura h = 20 m, dejando caer un fragmento rocoso, ¿qué camino recorrerá este cuerpo hasta el inicio del último 1/10 del tiempo total de su calda? aproximadamente en metros. Utilice g = 10 m/s2. Obs: la resistencia del aire no se tiene en cuenta.",
+                            "options": [
+                                "190 m",
+                                "19,4 m",
+                                "16,2 m",
+                                "19,6 m",
+                                "200 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2019 1P SR, 2022",
+                            "question": "Un cuerpo cae libremente desde el reposo. La mitad de su recorrido lo realiza en el último segundo de su movimiento. Hallar el tiempo total de la calda. (g = 10 m/s2)",
+                            "options": [
+                                "2,41 s",
+                                "3,41 s",
+                                "4,41 s",
+                                "5,41 s",
+                                "6,41 s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2019",
+                            "question": "Un observador, situado a 40 m de altura, ve pasar un cuerpo que se dirige verticalmente hacia arriba y 5 s después lo ve pasar nuevamente en dirección al suelo. La velocidad inicial con que fue lanzado el cuerpo es:",
+                            "options": [
+                                "37,21 m/s",
+                                "70,625 m/s",
+                                "30,625 m/s",
+                                "73,21 m/s",
+                                "60 m/s"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2019 SR",
+                            "question": "Se deja caer una roca desde el borde de un acantilado de 100 m de altura. ¿Cuánto tarda en recorrer los últimos 50 m?",
+                            "options": [
+                                "1,31 s",
+                                "3,16 s",
+                                "4,47 s",
+                                "2,16 s",
+                                "2,31 s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2021 SR",
+                            "question": "Se lanza un cuerpo verticalmente hacia arriba con una velocidad inicial de 100 m/s, luego de 4 s de efectuado el lanzamiento su velocidad es de 60 m/s. Entonces, el tiempo en segundos que demora en volver al punto de partida, considerando g = 10 m/s2, es de:",
+                            "options": [
+                                "20",
+                                "10",
+                                "15",
+                                "25",
+                                "5"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022 1P CPAM",
+                            "question": "Un cuerpo es lanzado del suelo verticalmente hacia arriba con una velocidad inicial de 50 m/s, en el mismo instante se deja caer otro cuerpo en la misma vertical desde un punto situado a 150 m de altura respecto al suelo; la altura en unidades del Si en la que se cruzan ambos cuerpos es, aproximadamente: (considerar g = 10 m/s2)",
+                            "options": [
+                                "3",
+                                "25",
+                                "95",
+                                "105",
+                                "125"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022 Final CPAM A",
+                            "question": "Un paracaidista que desciende en caída libre (antes de abrir su paracaídas) pasa por los puntos A y B de su trayectoria vertical con velocidades VA = 10 m/s y VB = 60 m/s. La distancia AB que recorrió es:",
+                            "options": [
+                                "45 m",
+                                "30 m",
+                                "55/36 m",
+                                "178,6 m",
+                                "16 m"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2023 FINAL CPAM H, 2024 PreCPAM-R",
+                            "question": "En un lugar donde la aceleración de la gravedad vale 10 m/s2, se deja caer libremente una piedra de una altura de 125 m en dirección al suelo. Dos segundos después, una segunda piedra es tirada verticalmente de la misma altura. Sabiendo que las dos piedras llegan al suelo al mismo tiempo, la velocidad con que fue tirada la segunda piedra es:",
+                            "options": [
+                                "12,3 m/s",
+                                "26,7 m/s",
+                                "32 m/s",
+                                "41,2 m/s",
+                                "57,5 m/s"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2023 Final CPAM SR",
+                            "question": "Se dispara un cuerpo verticalmente hacia arriba a razón de 100 m/s. Utilice g = 10 ms-2. El valor de la altura máxima alcanzada, en m, es:",
+                            "options": [
+                                "un múltiplo de 11",
+                                "un número con raíz cuadrada entera",
+                                "un valor entre 600 y 800",
+                                "el doble del cuadrado de 15",
+                                "un múltiplo del cuadrado de 5"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2024 PreCPAM-R",
+                            "question": "Después de una clase de física, un habitante del planeta X aprendió que, en las proximidades de la superficie de un astro cualquiera, el movimiento de caída es uniformemente variado. Llegando a casa resolvió calcular la velocidad con la que una bola llega al suelo, después de abandonarla de una altura de 36 m comprobó que la bola llega al suelo después de 6 s. Dicha velocidad es:",
+                            "options": [
+                                "5 m/s",
+                                "6 m/s",
+                                "12 m/s",
+                                "14 m/s",
+                                "18 m/s"
+                            ],
+                            "answer": "e"
+                        },
+                        {
+                            "year": "2024 PreCPAM-R",
+                            "question": "Una partícula en caída libre, a partir del reposo, tiene una velocidad de 30 m/s después de un tiempo t, y en el instante 2t llega al suelo. Adopte g= 10 m/s2 y desprecie la resistencia del aire. La altura desde la cual fue abandonada, en relación al suelo, es de:",
+                            "options": [
+                                "360 m",
+                                "180 m",
+                                "30 m",
+                                "10 m",
+                                "3 m"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2024 PreCPAM-R",
+                            "question": "Se tira en un pozo una piedra verticalmente hacia abajo con una velocidad de 10 m/s. Siendo g= 10 m/s2 y sabiendo que la piedra emplea 2 s para llegar al fondo del pozo, podemos concluir que la profundidad de este es, en m:",
+                            "options": [
+                                "30",
+                                "40",
+                                "50",
+                                "20",
+                                "10"
+                            ],
+                            "answer": "b"
                         }
                     ]
                 },
