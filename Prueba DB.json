@@ -1,0 +1,40 @@
+{
+    "topics": {
+        "Unidad 1: Vectores": {
+            "questions": [
+                {
+                    "question": "Un hombre camina \\(3\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el oeste, luego 3 m hacia el sur, a continuación 5 m hacia el este y finalmente \\(2\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el este, el desplazamiento resultante del hombre, es en m:",
+                    "year": "2003",
+                    "imageURL": "",
+                    "options": [
+                        "\\(2\\sqrt{5} \\)",
+                        "\\(2\\sqrt{2} \\)",
+                        "\\(5\\sqrt{2} \\)",
+                        "\\(4\\sqrt{2} \\)",
+                        "\\(5\\sqrt{5} \\)"
+                    ],
+                    "answer": "a"
+                }
+            ]
+        },
+        "Unidad 2: Cinemática": {
+            "subtopics": {
+                "Cinemática Conceptual y Movimiento Uniforme": [
+                    {
+                        "year": "2004",
+                        "question": "El periódico de Astronomía y Ciencias Espacial \"Cosmos\" publicó, en su edición especial de setiembre de 1994, que la sombra de la Luna proyectada sobre la Tierra recorrerá cerca de 14000 Km, desde 2000 km al oeste de Perú, en el Océano Pacífico, hasta 750 Km al sur de Madagascar, en el Océano Indico, en 3 h 15 min. La velocidad media de la sombra sobre la superficie terrestre fue, aproximadamente, en m/s, de:",
+                        "imageURL": "",
+                        "options": [
+                            "1,2",
+                            "72",
+                            "1200",
+                            "4300",
+                            "4440"
+                        ],
+                        "answer": "c"
+                    }
+                ]
+            }
+        }
+    }
+}
