@@ -1,6 +1,6 @@
 {
     "topics": {
-        "Unidad 1: Vectores": {
+        "Unidad 1: Magnitudes y Vectores": {
             "questions": [
                 {
                     "question": "Un hombre camina \\(3\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el oeste, luego 3 m hacia el sur, a continuación 5 m hacia el este y finalmente \\(2\\sqrt{2} \\) m en una dirección que forma 45° con el norte contados hacia el este, el desplazamiento resultante del hombre, es en m:",
@@ -1867,6 +1867,238 @@
                                 "10 m/s<sup>2</sup>"
                             ],
                             "answer": "a"
+                        }
+                    ]
+                },
+                "Tiro Vertical y Caída Libre": {
+                    "questions": [
+                        {
+                            "year": "2004",
+                            "question": "Un niño lanza una pequeña bola, verticalmente hacia arriba, del techo de su edificio. La bola parte con una velocidad Inicial de 10 m/s y llega al suelo 4 s después del lanzamiento. Desprecie la resistencia del aire y considerando (g=10 m/s²), la altura del edificio es:",
+                            "options": [
+                                "40 m",
+                                "80 m",
+                                "120 m",
+                                "160 m",
+                                "200 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2007",
+                            "question": "Un niño asomado en el balcón de su departamento, deja caer su juguete, que lleva 2 seg. en llegar al suelo. La velocidad con la que el juguete llega al suelo y la altura del balcón son, respectivamente:",
+                            "options": [
+                                "-2 m/s y 60 m",
+                                "20 m/s y 20 m",
+                                "60 m/s y 20 m",
+                                "-20 m/s y 20 m",
+                                "5 m/s y 25 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2008",
+                            "question": "Un cuerpo en caída libre, a partir del reposo, emplea cierto tiempo para recorrer una distancia h. Si otro cuerpo en las mismas condiciones emplease el triple de ese tiempo, la distancia recorrida sería:",
+                            "options": [
+                                "h/9",
+                                "h/3",
+                                "3h",
+                                "9h/2",
+                                "9h"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2009",
+                            "question": "Un cuerpo es lanzado verticalmente hacia arriba, con una velocidad de 20 m/s, de un punto situado a 160 m del suelo. Despreciando la resistencia del aire y adoptando g= 10 m/s². ¿Cuál es el tiempo empleado por el cuerpo para llegar al suelo?",
+                            "options": [
+                                "4 s",
+                                "12 s",
+                                "8 s",
+                                "30 s",
+                                "-4 s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2010",
+                            "question": "Una piedra es abandonada del techo de un edificio, y emplea exactamente 5 segundos para llegar al suelo. Considere g= 10 m/s². La altura del edificio es:",
+                            "options": [
+                                "250 m.",
+                                "125 m",
+                                "500 m",
+                                "75 m",
+                                "25 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2011",
+                            "question": "Un cuerpo es lanzado verticalmente hacia arriba, con una velocidad inicial de 20 m/s. Despreciando la resistencia del aire y admitiendo g = 10 m/s², podemos afirmar que la altura máxima alcanzada por el cuerpo es:",
+                            "options": [
+                                "10 m",
+                                "20 m",
+                                "40 m",
+                                "60 m",
+                                "80 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2011, 2024 PreCPAM",
+                            "question": "Un cuerpo es lanzado del suelo, verticalmente hacia arriba, con una velocidad inicial de 20 m/s. Despreciando la resistencia del aire y admitiendo g= 10 m/s², podemos afirmar que el tiempo empleado por el cuerpo para alcanzar la H máxima es:",
+                            "options": [
+                                "2 s",
+                                "4 s",
+                                "6 s",
+                                "8 s",
+                                "1 s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2012",
+                            "question": "Se lanza verticalmente de abajo para arriba, un cuerpo, con una velocidad inicial de 98 m/s. La altura alcanzada por el cuerpo, vale en m:",
+                            "options": [
+                                "50",
+                                "490",
+                                "49",
+                                "980",
+                                "500"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2012",
+                            "question": "Se lanza un cuerpo del suelo verticalmente, de abajo para arriba, con velocidad de 80 m/s. La velocidad del cuerpo en 12 segundos, es (Admitiendo g= 10 m/s²):",
+                            "options": [
+                                "275 m/s",
+                                "- 40 m/s",
+                                "120 m/s",
+                                "- 120 m/s",
+                                "40 m/s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2012",
+                            "question": "Un proyectil es lanzado desde el suelo, a 12,25 m/s verticalmente hacia arriba. El momento que toca el suelo después de ser lanzado es, en segundos:",
+                            "options": [
+                                "4,9",
+                                "2,5",
+                                "8,9",
+                                "5,5",
+                                "3,5"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "Un objeto cae a partir del reposo, de una altura de 320 m en una zona del planeta donde la gravedad es igual a 10 m/s². Dividiendo esa altura en dos partes que debe ser recorrido en intervalos de tiempos iguales, sus valores, en m, son:",
+                            "options": [
+                                "160 y 160",
+                                "140 y 180",
+                                "80 y 240",
+                                "60 y 260",
+                                "40 y 280"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "¿Cuánto tiempo debe caer libremente una piedra para que su velocidad sea de 98 m/s?",
+                            "options": [
+                                "9,8 s",
+                                "10 s",
+                                "19,6 s",
+                                "49 s",
+                                "3 s"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2015 SR",
+                            "question": "De un puente se deja caer una piedra que demora 4 s en llegar a la superficie del agua. Siendo la aceleración de la gravedad 10 m/s², podemos concluir que la altura del puente es, en metros:",
+                            "options": [
+                                "40",
+                                "80",
+                                "110",
+                                "90",
+                                "60"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2016",
+                            "question": "Dos cuerpos son lanzados de una altura h (se desprecia el rozamiento), con velocidad inicial Vo, uno para arriba otro para abajo. Al alcanzar el suelo podemos afirmar que:",
+                            "options": [
+                                "La velocidad del primero es el doble de la del segundo.",
+                                "El primero tiene el triple de la velocidad del segundo",
+                                "El segundo tiene mayor velocidad que el primero.",
+                                "El segundo tiene el doble que la velocidad del primero.",
+                                "Tienen velocidades iguales."
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2016 SR",
+                            "question": "Un cuerpo de masa mi parte verticalmente hacia arriba con una velocidad Inicial de 4 m/s. Llega hasta una cierta altura h y cae verticalmente. Al pasar por el punto de partida (despreciando la resistencia del aire) su velocidad en m/s será:",
+                            "options": [
+                                "16",
+                                "2",
+                                "8",
+                                "4",
+                                "5"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2016 SR",
+                            "question": "Un cuerpo en caída libre recorre una distancia vertical en 2 s; luego, la distancia recorrida en 6 s será:",
+                            "options": [
+                                "Doble",
+                                "12 veces mayor",
+                                "6 veces mayor",
+                                "9 veces mayor",
+                                "triple"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2016 1P SR, 2022",
+                            "question": "Un punto material lanzado verticalmente hacia arriba retorna al suelo después de 12 s de su lanzamiento. Despreciando la resistencia del aire y adoptando g = 10 m/s², su velocidad inicial en m/s es:",
+                            "options": [
+                                "60",
+                                "45",
+                                "30",
+                                "15",
+                                "20"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2017 1P SR",
+                            "question": "Una piedra es lanzada verticalmente hacia arriba con velocidad de 3 m/s de una posición 2 m encima del suelo. ¿Cuánto tiempo emplea desde el instante del lanzamiento hasta llegar al suelo?",
+                            "options": [
+                                "0,4 s",
+                                "1 s",
+                                "1,5 s",
+                                "2 s",
+                                "3 s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2017",
+                            "question": "Dos cuerpos A y B son abandonados a partir del reposo y ejecutan movimientos de caída libre. El cuerpo A emplea para caer un tiempo equivalente a cinco veces el tiempo empleado por el cuerpo B para caer. La razón entre los espacios recorridos por B y A es:",
+                            "options": [
+                                "1/2",
+                                "1/5",
+                                "1/10",
+                                "1/25",
+                                "1/100"
+                            ],
+                            "answer": "b"
                         }
                     ]
                 },
