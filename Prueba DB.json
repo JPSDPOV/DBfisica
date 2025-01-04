@@ -2246,7 +2246,7 @@
                         },
                         {
                             "year": "2024 PreCPAM",
-                            "question": "Se lanza un cuerpo, del suelo hacia arriba, bajo un ángulo de 60º respecto a la horizontal con una velocidad de 400 m/s. Admitiendo que g=10 m/s² y que 3=1,7, la altura máxima alcanzada, es:",
+                            "question": "Se lanza un cuerpo, del suelo hacia arriba, bajo un ángulo de 60º respecto a la horizontal con una velocidad de 400 m/s. Admitiendo que g=10 m/s<sup>2</sup> y que \\(\\sqrt{3}=1,7 \\), la altura máxima alcanzada, es:",
                             "options": [
                                 "17340 m",
                                 "340 m",
@@ -5837,7 +5837,7 @@
                             "answer": "a"
                         },
                         {
-                            "year": "2024",
+                            "year": "2024 1P CPAM",
                             "question": "Un trozo de hielo de 100 g, inicialmente a -20°C recibe 15.000 cal. Determinar la temperatura alcanzada, sabiendo que esa energía fue totalmente aprovechada por el sistema:",
                             "options": [
                                 "-10°C",
