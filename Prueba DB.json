@@ -2030,7 +2030,7 @@
                         },
                         {
                             "year": "2016",
-                            "question": "Dos cuerpos son lanzados de una altura h (se desprecia el rozamiento), con velocidad inicial Vo, uno para arriba otro para abajo. Al alcanzar el suelo podemos afirmar que:",
+                            "question": "Dos cuerpos son lanzados de una altura h (se desprecia el rozamiento), con velocidad inicial V<sub>0</sub>, uno para arriba otro para abajo. Al alcanzar el suelo podemos afirmar que:",
                             "options": [
                                 "La velocidad del primero es el doble de la del segundo.",
                                 "El primero tiene el triple de la velocidad del segundo",
@@ -2102,7 +2102,7 @@
                         },
                         {
                             "year": "2017 1P",
-                            "question": "Desde una torre bastante alta, se deja caer una piedra en el tiempo cero, y otra en el tiempo 1 s. En el tiempo 3 s la distancia aproximada que separa a las piedras es de g=10 m/s2:",
+                            "question": "Desde una torre bastante alta, se deja caer una piedra en el tiempo cero, y otra en el tiempo 1 s. En el tiempo 3 s la distancia aproximada que separa a las piedras es de g=10 m/s<sup>2</sup>:",
                             "options": [
                                 "20 m",
                                 "10 m",
@@ -2114,7 +2114,7 @@
                         },
                         {
                             "year": "2017 1P SR",
-                            "question": "Un clavadista de 65 kg se lanza desde un trampolín que está a 8 m sobre la superficie; entonces la velocidad del clavadista a 3 m sobre la superficie será en m/s, (g = 10 m/s2):",
+                            "question": "Un clavadista de 65 kg se lanza desde un trampolín que está a 8 m sobre la superficie; entonces la velocidad del clavadista a 3 m sobre la superficie será en m/s, (g = 10 m/s<sup>2</sup>):",
                             "options": [
                                 "8",
                                 "9",
@@ -2126,7 +2126,7 @@
                         },
                         {
                             "year": "2017 1P SR",
-                            "question": "Dos proyectiles iguales son lanzados de la misma posición (40 m por encima del suelo), verticalmente en sentidos opuestos y con la misma velocidad. En 2 s, el primer proyectil llega al suelo. ¿Después de cuánto tiempo de la llegada del primero, el segundo llegará al suelo? (Desprecie cualquier rozamiento y considere g = 10 m/s2):",
+                            "question": "Dos proyectiles iguales son lanzados de la misma posición (40 m por encima del suelo), verticalmente en sentidos opuestos y con la misma velocidad. En 2 s, el primer proyectil llega al suelo. ¿Después de cuánto tiempo de la llegada del primero, el segundo llegará al suelo? (Desprecie cualquier rozamiento y considere g = 10 m/s<sup>2</sup>):",
                             "options": [
                                 "1 s",
                                 "2 s",
@@ -2138,7 +2138,7 @@
                         },
                         {
                             "year": "2017",
-                            "question": "Una partícula en caída libre, a partir del reposo, tiene velocidad de 30 m/s después de un tiempo t, y en el instante 2t llega al suelo. Adopte g= 10 m/s2 y desprecie la resistencia del aire. La altura desde la cual fue abandonada, en relación al suelo, es de:",
+                            "question": "Una partícula en caída libre, a partir del reposo, tiene velocidad de 30 m/s después de un tiempo t, y en el instante 2t llega al suelo. Adopte g= 10 m/s<sup>2</sup> y desprecie la resistencia del aire. La altura desde la cual fue abandonada, en relación al suelo, es de:",
                             "options": [
                                 "360 m",
                                 "180 m",
@@ -2150,7 +2150,7 @@
                         },
                         {
                             "year": "2018 1P, 2018 1P SR",
-                            "question": "Un cuerpo es abandonado en el vacío, sin velocidad inicial. Si en el último segundo de su caída recorrió 25 m, podemos concluir que fue abandonado desde una altura aproximadamente igual a: (considere g = 10 m/s2)",
+                            "question": "Un cuerpo es abandonado en el vacío, sin velocidad inicial. Si en el último segundo de su caída recorrió 25 m, podemos concluir que fue abandonado desde una altura aproximadamente igual a: (considere g = 10 m/s<sup>2</sup>)",
                             "options": [
                                 "25 m",
                                 "50 m",
@@ -2174,7 +2174,7 @@
                         },
                         {
                             "year": "2018",
-                            "question": "Si se suelta una piedra, esta recorre 20 m en los dos primeros segundos. Hallar la altura que desciende en los tres segundos siguientes (g = 10 m/s2)",
+                            "question": "Si se suelta una piedra, esta recorre 20 m en los dos primeros segundos. Hallar la altura que desciende en los tres segundos siguientes (g = 10 m/s<sup>2</sup>)",
                             "options": [
                                 "105 m",
                                 "125 m",
@@ -2198,7 +2198,7 @@
                         },
                         {
                             "year": "2018",
-                            "question": "Un globo aerostático viaja verticalmente hacia arriba con una velocidad constante de 5 m/s. Cuando está a 15 m sobre el suelo se abandona un paquete desde el globo, ¿Cuánto tiempo permanece el paquete en el aire? Considere g=10 m/s2",
+                            "question": "Un globo aerostático viaja verticalmente hacia arriba con una velocidad constante de 5 m/s. Cuando está a 15 m sobre el suelo se abandona un paquete desde el globo, ¿Cuánto tiempo permanece el paquete en el aire? Considere g=10 m/s<sup>2</sup>",
                             "options": [
                                 "1,73 s",
                                 "1,3 s",
@@ -2210,7 +2210,7 @@
                         },
                         {
                             "year": "2019 1P, 2019 1P SR",
-                            "question": "Se dispara un cohete verticalmente hacia arriba y sube con una aceleración vertical constante de a = 19,6 m/s2 durante 1 min. En ese momento agota su combustible y sube como partícula libre. ¿Cuál es el tiempo total, en segundos, transcurrido desde el instante en que despega el cohete hasta que regresa al suelo?",
+                            "question": "Se dispara un cohete verticalmente hacia arriba y sube con una aceleración vertical constante de a = 19,6 m/s<sup>2</sup> durante 1 min. En ese momento agota su combustible y sube como partícula libre. ¿Cuál es el tiempo total, en segundos, transcurrido desde el instante en que despega el cohete hasta que regresa al suelo?",
                             "options": [
                                 "120",
                                 "267",
@@ -2222,7 +2222,7 @@
                         },
                         {
                             "year": "2019 1P, 2019 1P SR",
-                            "question": "Un estudiante lanza una caja con llaves verticalmente hacia arriba, a su hermana ubicada en una ventana de un club femenino a 4 metros de altura sobre el nivel del piso. La hermana atrapa la caja 1,5 segundos después de haber sido lanzada. ¿Cuál es la velocidad inicial, en m/s, con que fue lanzada la caja de llaves? Considerar g = 10 m/s2.",
+                            "question": "Un estudiante lanza una caja con llaves verticalmente hacia arriba, a su hermana ubicada en una ventana de un club femenino a 4 metros de altura sobre el nivel del piso. La hermana atrapa la caja 1,5 segundos después de haber sido lanzada. ¿Cuál es la velocidad inicial, en m/s, con que fue lanzada la caja de llaves? Considerar g = 10 m/s<sup>2</sup>.",
                             "options": [
                                 "8,2",
                                 "9,2",
@@ -2234,7 +2234,7 @@
                         },
                         {
                             "year": "2019 1P",
-                            "question": "Un geólogo se encuentra parado sobre una ladera vertical de una altura h = 20 m, dejando caer un fragmento rocoso, ¿qué camino recorrerá este cuerpo hasta el inicio del último 1/10 del tiempo total de su calda? aproximadamente en metros. Utilice g = 10 m/s2. Obs: la resistencia del aire no se tiene en cuenta.",
+                            "question": "Un geólogo se encuentra parado sobre una ladera vertical de una altura h = 20 m, dejando caer un fragmento rocoso, ¿qué camino recorrerá este cuerpo hasta el inicio del último 1/10 del tiempo total de su calda? aproximadamente en metros. Utilice g = 10 m/s<sup>2</sup>. Obs: la resistencia del aire no se tiene en cuenta.",
                             "options": [
                                 "190 m",
                                 "19,4 m",
@@ -2246,7 +2246,7 @@
                         },
                         {
                             "year": "2019 1P SR, 2022",
-                            "question": "Un cuerpo cae libremente desde el reposo. La mitad de su recorrido lo realiza en el último segundo de su movimiento. Hallar el tiempo total de la calda. (g = 10 m/s2)",
+                            "question": "Un cuerpo cae libremente desde el reposo. La mitad de su recorrido lo realiza en el último segundo de su movimiento. Hallar el tiempo total de la calda. (g = 10 m/s<sup>2</sup>)",
                             "options": [
                                 "2,41 s",
                                 "3,41 s",
@@ -2282,7 +2282,7 @@
                         },
                         {
                             "year": "2021 SR",
-                            "question": "Se lanza un cuerpo verticalmente hacia arriba con una velocidad inicial de 100 m/s, luego de 4 s de efectuado el lanzamiento su velocidad es de 60 m/s. Entonces, el tiempo en segundos que demora en volver al punto de partida, considerando g = 10 m/s2, es de:",
+                            "question": "Se lanza un cuerpo verticalmente hacia arriba con una velocidad inicial de 100 m/s, luego de 4 s de efectuado el lanzamiento su velocidad es de 60 m/s. Entonces, el tiempo en segundos que demora en volver al punto de partida, considerando g = 10 m/s<sup>2</sup>, es de:",
                             "options": [
                                 "20",
                                 "10",
@@ -2294,7 +2294,7 @@
                         },
                         {
                             "year": "2022 1P CPAM",
-                            "question": "Un cuerpo es lanzado del suelo verticalmente hacia arriba con una velocidad inicial de 50 m/s, en el mismo instante se deja caer otro cuerpo en la misma vertical desde un punto situado a 150 m de altura respecto al suelo; la altura en unidades del Si en la que se cruzan ambos cuerpos es, aproximadamente: (considerar g = 10 m/s2)",
+                            "question": "Un cuerpo es lanzado del suelo verticalmente hacia arriba con una velocidad inicial de 50 m/s, en el mismo instante se deja caer otro cuerpo en la misma vertical desde un punto situado a 150 m de altura respecto al suelo; la altura en unidades del Si en la que se cruzan ambos cuerpos es, aproximadamente: (considerar g = 10 m/s<sup>2</sup>)",
                             "options": [
                                 "3",
                                 "25",
@@ -2306,7 +2306,7 @@
                         },
                         {
                             "year": "2022 Final CPAM A",
-                            "question": "Un paracaidista que desciende en caída libre (antes de abrir su paracaídas) pasa por los puntos A y B de su trayectoria vertical con velocidades VA = 10 m/s y VB = 60 m/s. La distancia AB que recorrió es:",
+                            "question": "Un paracaidista que desciende en caída libre (antes de abrir su paracaídas) pasa por los puntos A y B de su trayectoria vertical con velocidades V<sub>A</sub> = 10 m/s y V<sub>B</sub> = 60 m/s. La distancia AB que recorrió es:",
                             "options": [
                                 "45 m",
                                 "30 m",
@@ -2318,7 +2318,7 @@
                         },
                         {
                             "year": "2023 FINAL CPAM H, 2024 PreCPAM-R",
-                            "question": "En un lugar donde la aceleración de la gravedad vale 10 m/s2, se deja caer libremente una piedra de una altura de 125 m en dirección al suelo. Dos segundos después, una segunda piedra es tirada verticalmente de la misma altura. Sabiendo que las dos piedras llegan al suelo al mismo tiempo, la velocidad con que fue tirada la segunda piedra es:",
+                            "question": "En un lugar donde la aceleración de la gravedad vale 10 m/s<sup>2</sup>, se deja caer libremente una piedra de una altura de 125 m en dirección al suelo. Dos segundos después, una segunda piedra es tirada verticalmente de la misma altura. Sabiendo que las dos piedras llegan al suelo al mismo tiempo, la velocidad con que fue tirada la segunda piedra es:",
                             "options": [
                                 "12,3 m/s",
                                 "26,7 m/s",
@@ -2330,7 +2330,7 @@
                         },
                         {
                             "year": "2023 Final CPAM SR",
-                            "question": "Se dispara un cuerpo verticalmente hacia arriba a razón de 100 m/s. Utilice g = 10 ms-2. El valor de la altura máxima alcanzada, en m, es:",
+                            "question": "Se dispara un cuerpo verticalmente hacia arriba a razón de 100 m/s. Utilice g = 10 ms<sup>-2</sup>. El valor de la altura máxima alcanzada, en m, es:",
                             "options": [
                                 "un múltiplo de 11",
                                 "un número con raíz cuadrada entera",
@@ -2354,7 +2354,7 @@
                         },
                         {
                             "year": "2024 PreCPAM-R",
-                            "question": "Una partícula en caída libre, a partir del reposo, tiene una velocidad de 30 m/s después de un tiempo t, y en el instante 2t llega al suelo. Adopte g= 10 m/s2 y desprecie la resistencia del aire. La altura desde la cual fue abandonada, en relación al suelo, es de:",
+                            "question": "Una partícula en caída libre, a partir del reposo, tiene una velocidad de 30 m/s después de un tiempo t, y en el instante 2t llega al suelo. Adopte g= 10 m/s<sup>2</sup> y desprecie la resistencia del aire. La altura desde la cual fue abandonada, en relación al suelo, es de:",
                             "options": [
                                 "360 m",
                                 "180 m",
@@ -2366,7 +2366,7 @@
                         },
                         {
                             "year": "2024 PreCPAM-R",
-                            "question": "Se tira en un pozo una piedra verticalmente hacia abajo con una velocidad de 10 m/s. Siendo g= 10 m/s2 y sabiendo que la piedra emplea 2 s para llegar al fondo del pozo, podemos concluir que la profundidad de este es, en m:",
+                            "question": "Se tira en un pozo una piedra verticalmente hacia abajo con una velocidad de 10 m/s. Siendo g= 10 m/s<sup>2</sup> y sabiendo que la piedra emplea 2 s para llegar al fondo del pozo, podemos concluir que la profundidad de este es, en m:",
                             "options": [
                                 "30",
                                 "40",
