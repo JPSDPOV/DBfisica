@@ -3668,6 +3668,18 @@
                 },
                 {
                     "year": "2012",
+                    "question": "La superficie plana de la cabeza de un clavo, tiene un área de 0,1 cm<sup>2</sup>. Un martillo golpea de modo a ejercer sobre él una fuerza constante e igual a 100 N. La presión ejercida por el martillo sobre el clavo, en N/cm<sup>2</sup>, será:",
+                    "options": [
+                        "10",
+                        "100",
+                        "1000",
+                        "10000",
+                        "100000"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "year": "2012",
                     "question": "Una prensa hidráulica que contiene un líquido incompresible tiene las áreas de sus émbolos en relación 1/6. Al ser aplicada una fuerza F en el émbolo de menor área, es posible equilibrar en el otro émbolo un peso igual a:",
                     "options": [
                         "1/6 F",
@@ -3931,6 +3943,30 @@
                     "answer": "c"
                 },
                 {
+                    "year": "2018 1P, 2019 1P",
+                    "question": "Un ladrillo de plomo de dimensiones 5 cm, 10 cm y 20 cm, respectivamente; descansa en un piso horizontal sobre su cara más pequeña. ¿Cuál es la magnitud de la presión, en kPa, que ejerce el ladrillo sobre el piso? Densidad del plomo= 2,7 g/cm<sup>3</sup> g= 10 m/s<sup>2</sup>:",
+                    "options": [
+                        "1,5",
+                        "2,3",
+                        "5,4",
+                        "3,5",
+                        "4,2"
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "year": "2018 1P SR",
+                    "question": "Una bailarina, cuyo peso es de 500 N, se apoya en la punta de su pie, de modo que el área de contacto con el suelo es de 2 cm<sup>2</sup>. Siendo la presión atmosférica equivalente a 105 N/m<sup>2</sup> ¿Cuánto es el aumento de presión debido al contacto del pie con el suelo?",
+                    "options": [
+                        "16.10<sup>5</sup> Pa",
+                        "25.10<sup>5</sup> Pa",
+                        "14.10<sup>5</sup> Pa",
+                        "24.10<sup>5</sup> Pa",
+                        "15.10<sup>5</sup> Pa"
+                    ],
+                    "answer": "b"
+                },
+                {
                     "year": "2018",
                     "question": "Una prensa hidráulica tiene sus diámetros uno el doble del otro y se quiere levantar un cuerpo de 72 tn. Determinar la fuerza que se debe aplicar en el menor. (Adoptar g= 10 m/s²)",
                     "options": [
@@ -4025,6 +4061,30 @@
                         "18,5 g/cm³"
                     ],
                     "answer": "a"
+                },
+                {
+                    "year": "2019 1P SR",
+                    "question": "Comparando la presión ejercida sobre el suelo por una persona de 80 kg de masa, apoyada en la punta de un solo pie, con la presión ejercida por un elefante de 2000 kg de masa, apoyado en las cuatro patas. Considere 10 cm2 el área de contacto de la punta del pie de la persona, y de 400 cm<sup>2</sup> el área de contacto de cada pata de elefante; admitir g= 10 m/s<sup>2</sup>:",
+                    "options": [
+                        "La presión ejercida por la persona es 4,6 veces de la presión ejercida por el elefante.",
+                        "La presión ejercida por la persona es 1,25 la presión ejercida por el elefante.",
+                        "La presión ejercida por la persona es 6,4 veces la presión ejercida por el elefante.",
+                        "La presión ejercida por la persona es 8 veces la presión ejercida por el elefante.",
+                        "La presión ejercida por la persona es 8.10<sup>5</sup> veces la presión ejercida por el elefante."
+                    ],
+                    "answer": "c"
+                },
+                {
+                    "year": "2019 SR",
+                    "question": "La diferencia de presión entre el sótano de la casa y el ático (terraza) a una altura de 10 m sobre el sótano, expresado en mm de Hg (densidad estándar del aire de 1,29 kg/m3) será:",
+                    "options": [
+                        "0,65",
+                        "0,75",
+                        "0,85",
+                        "0,95",
+                        "1,05"
+                    ],
+                    "answer": "d"
                 },
                 {
                     "year": "2019",
