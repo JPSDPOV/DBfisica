@@ -3340,6 +3340,905 @@
                 }
             }
         },
+        "Unidad 3: Dinámica": {
+            "subtopics": {
+                "Dinámica de los Cuerpos": {
+                    "questions": [
+                        {
+                            "year": "2003",
+                            "question": "Partiendo del reposo, el sistema ideal que comprende una polea y dos cuerpos de masa M y 2M están unidos por un hilo inextensible, está en movimiento. Las fricciones son despreciables y la intensidad de la gravedad es g. La intensidad de la tensión en el hilo, durante el movimiento es:",
+                            "options": [
+                                "Mg/3",
+                                "2Mg/3",
+                                "4Mg/3",
+                                "2Mg",
+                                "3Mg"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2004",
+                            "question": "Sobre un cuerpo de 6 kg de masa, inicialmente en reposo sobre una mesa horizontal perfectamente lisa, se aplica una fuerza F; también horizontal. Después de un desplazamiento de 25 m el cuerpo presenta una velocidad de 5 m/s. La intensidad de la fuerza F aplicada al cuerpo, en N, fue de:",
+                            "options": [
+                                "3",
+                                "5",
+                                "6",
+                                "10",
+                                "30"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2004",
+                            "question": "Un automóvil puede desarrollar una aceleración máxima de 2,7 m/s<sup>2</sup>. ¿Cuál sería su aceleración máxima si el mismo estuviese remolcando otro automóvil cuya masa fuese el doble del primero?",
+                            "options": [
+                                "2,5 m/s<sup>2</sup>",
+                                "1,8 m/s<sup>2</sup>",
+                                "1,5 m/s<sup>2</sup>",
+                                "0,9 m/s<sup>2</sup>",
+                                "0,5 m/s<sup>2</sup>"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2004",
+                            "question": "Una persona está sobre una balanza, que se encuentra fija el piso de un ascensor. El ascensor está subiendo, al mismo tiempo que su velocidad está siendo reducida. En estas condiciones, la balanza indicará un valor:",
+                            "options": [
+                                "Mayor que el peso real de la persona",
+                                "Igual que el peso real de la persona",
+                                "Menor que el peso real de la persona",
+                                "Que depende de la aceleración del ascensor",
+                                "Que no depende de la aceleración del ascensor"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2004",
+                            "question": "Un cuerpo de masa igual 4 kg está sobre una superficie horizontal con la que tiene un coeficiente de rozamiento dinámico 0,25. Se aplica en él una fuerza F constante, que forma con la horizontal un ángulo de 53°. Dados sen 53° = 0,8 y cos 53° = 0,6. Si el módulo de la fuerza F igual a 20 N, donde g = 10m/s<sup>2</sup>, se puede concluir que la aceleración del movimiento del cuerpo es, en m/s.",
+                            "options": [
+                                "2",
+                                "1,5",
+                                "0,75",
+                                "0,5",
+                                "0,25"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2005",
+                            "question": "Puede ocurrir variación en el módulo, en la dirección o en el sentido del vector velocidad. Esto resulta de una aceleración que, a su vez es consecuencia de una fuerza. La fuerza que provoca variación en la dirección del vector velocidad, especialmente en los casos de trayectorias curvas, es particularmente denominado fuerza:",
+                            "options": [
+                                "Resultante",
+                                "Elástica",
+                                "Centrípeta",
+                                "de Rozamiento",
+                                "Resistente"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2005",
+                            "question": "Considere las siguientes afirmaciones: <br>I) Si un cuerpo está en reposo, ninguna fuerza actúa sobre él. <br>II) Si la resultante de las fuerzas que actúan sobre un cuerpo tiene módulo cero, él estará necesariamente en reposo. <br>III) La suma algebraica de los momentos, con relación a un punto, de las fuerzas que actúan sobre un cuerpo en equilibrio es necesariamente nula. <br>Es (son) correcta(s) solamente:",
+                            "options": [
+                                "I y II",
+                                "I y III",
+                                "I",
+                                "III",
+                                "II"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2006, 2017",
+                            "question": "El peso de un ascensor junto con sus pasajeros es de 640 kgf y la tensión en los cables del ascensor es de 768 kgf. El valor numérico de la aceleración del ascensor debe ser:",
+                            "options": [
+                                "1,96",
+                                "0,2",
+                                "20",
+                                "22",
+                                "24"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2006",
+                            "question": "En las principales carreteras, hay balanzas para impedir que los camiones circulen con exceso de peso de carga en cada eje, pues se sabe que los vehículos con exceso de peso dañan el lecho de las carreteras y corren mayor riesgo de provocar accidentes graves. Desde el punto de vista de la física, esta restricción puede ser justificada; en parte:",
+                            "options": [
+                                "por el principio de Pascal",
+                                "por las leyes de Newton",
+                                "por la ley de Coulomb",
+                                "por los principios de Arquímedes",
+                                "por la ley de Snell"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2006",
+                            "question": "Las estadísticas indican que el uso de cinturón de seguridad debe ser obligatorio para prevenir lesiones más graves en los conductores y pasajeros en casos de accidentes. Físicamente, la función del cinturón está relacionado con:",
+                            "options": [
+                                "Primera ley de Newton",
+                                "Ley de Snell",
+                                "Por el principio de Arquímedes",
+                                "Por la ley de Coulomb",
+                                "Por el principio de Pascal"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2006",
+                            "question": "Un bloque de 40 kg está apoyado en un plano inclinado de 30° y sube, bajo la acción de una fuerza F paralela al plano inclinado, con una aceleración de 2 m/s<sup>2</sup>. El coeficiente de rozamiento entre el bloque y el plano vale 0,4. Adoptando g= 10m/s<sup>2</sup>, el valor de F es aproximadamente:",
+                            "options": [
+                                "420 N",
+                                "280 N",
+                                "200 N",
+                                "180 N",
+                                "100 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2007",
+                            "question": "Un cuerpo de 5 kg es abandonado sobre un plano inclinado rugoso, desplazándose a una aceleración igual a 4 m/s<sup>2</sup>. La componente de la fuerza peso del cuerpo en la dirección del plano inclinado, vale 25 N. La fuerza de rozamiento entre el cuerpo y el plano. En Newton, debe ser igual a:",
+                            "options": [
+                                "5",
+                                "10",
+                                "15",
+                                "20",
+                                "25"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2008",
+                            "question": "Un cuerpo de 0,2 kg de masa está en reposo sobre un plano horizontal liso. Si una fuerza de 8 N inclinada 60° respecto a la horizontal, produce un desplazamiento de 0,4 m a través del plano, la velocidad del cuerpo, en m/s, es:",
+                            "options": [
+                                "1,6",
+                                "3,2",
+                                "4",
+                                "6,64",
+                                "16"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2008",
+                            "question": "Sobre un cuerpo de 25 kg actúan dos fuerzas opuestas, imprimiéndole una aceleración de 2 m/s<sup>2</sup>. Si una de ellas vale 50 N, la otra vale:",
+                            "options": [
+                                "12,5 N",
+                                "25 N",
+                                "50 N",
+                                "75 N",
+                                "100 N"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2008, 2016, 2016 SR, 2022 Final CPAM H",
+                            "question": "Un automóvil que tiene una velocidad de 90 km/h debe aumentarla a 120 km/h en 6 segundos para poder pasar a un camión. Si el automóvil pesa 8820 N, la fuerza necesaria para esta variación es:",
+                            "options": [
+                                "125 N",
+                                "12,5 N",
+                                "1250 N",
+                                "1,25 N",
+                                "0,125 N"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2008",
+                            "question": "A un cuerpo de 490 N se le aplica una fuerza constante de 78,4 N formando un ángulo de 30° con la horizontal. Suponiendo que no existe rozamiento. La velocidad del cuerpo después de haber recorrido una distancia de 6 m partiendo del reposo, es aproximadamente:",
+                            "options": [
+                                "4,04 cm/s",
+                                "4,04 m/s",
+                                "40,4 cm/s",
+                                "404 m/s",
+                                "40,4 m/s"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2008",
+                            "question": "Cuelgan dos baldes de una polea. El balde 1 pesa el doble que el balde 2, si tengo 2 litros de agua, cuanto debo poner en cada uno, si quiero que el sistema permanezca en equilibrio, m<sub>2</sub> = 1 kg.",
+                            "options": [
+                                "0,5 litros en el balde 1 y 1,5 litros en el balde 2",
+                                "0,5 litros en el balde 1 y 2,5 litros en el balde 2",
+                                "1,5 litros en el balde 2 y 1,5 litros en el balde 1",
+                                "0,5 litros en el balde 1 y 0,5 litros en el balde 2",
+                                "0,5 litros en el balde 2 y 1,5 litros en el balde 1"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2009",
+                            "question": "Un cuerpo, inicialmente a 5 m/s, experimenta durante 5 segundos, la arrión de una fuerza de 15 N. En esos 5 s el cuerpo recorre 100 m. La masa del cuerpo, en kg, vale:",
+                            "options": [
+                                "1,9",
+                                "2,5",
+                                "1,5",
+                                "2,4",
+                                "0,25"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2009",
+                            "question": "Dos automóviles, A y B unidos por una cuerda de peso despreciable, se desplazan sobre un plano bajo la acción de una fuerza de 15 N, aplicada en la dirección del desplazamiento No hay rozamiento entre A y el plano, pero el coeficiente entre B y el plano vale 0,2. Las masas de A y B son, respectivamente, 1 kg y 3 kg. Adopte g 10 m/s2, la aceleración del sistema es, en m/s<sup>2</sup>:",
+                            "options": [
+                                "2",
+                                "2,25",
+                                "2,5",
+                                "2,75",
+                                "3"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2009, 2015 SR",
+                            "question": "Un hombre intenta levantar una caja de 5 kg que está sobre una mesa aplicando una fuerza vertical de 10 N. En esa situación, adoptando g = 10 m/s<sup>2</sup>, el valor de la fuerza que la mesa aplica a la caja es:",
+                            "options": [
+                                "0 N",
+                                "5 N",
+                                "10 N",
+                                "40 N",
+                                "50 N"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2009",
+                            "question": "Una persona empuja una carga de 40 kg con una fuerza horizontal de 200 N. La caja se mueve con velocidad constante sobre una superficie horizontal. El coeficiente de rozamiento entre la superficie y la caja, es:",
+                            "options": [
+                                "0,5",
+                                "0,2",
+                                "0,3",
+                                "0,4",
+                                "0,1"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2010",
+                            "question": "Un cuerpo B descansa sobre una mesa horizontal y perfectamente lisa; está unido a otro cuerpo A mediante una cuerda que pasa por una polea. El cuerpo A se mantiene en posición vertical suspendida de la cuerda inextensible. El hilo es liberado a partir del reposo. Sabiendo que la masa de A es de 5 kg y la masa de B es de 15 kg. la aceleración del sistema, en m/s<sup>2</sup>, es de:",
+                            "options": [
+                                "2,5",
+                                "5",
+                                "10",
+                                "15",
+                                "12"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2012",
+                            "question": "Dos bloques A y B, de masas respectivamente iguales a 3 kg y 7 kg, están apoyadas sobre una mesa horizontal, y unidas entre sí por medio de un hilo. El coeficiente de rozamiento entre los bloques y la mesa vale 0,4. Se aplica al bloque A una fuerza horizontal constante de intensidad F= 50 N. Considerando g= 10 m/s<sup>2</sup> y el hilo inextensible, la aceleración comunicada al sistema es, en m/s<sup>2</sup>:",
+                            "options": [
+                                "1",
+                                "2",
+                                "3",
+                                "4",
+                                "5"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2012",
+                            "question": "Un cuerpo, dando 2 vueltas por segundo en MCU, está sometido a una fuerza centrípeta de módulo F. El módulo de la nueva fuerza centrípeta, cuando el cuerpo pasa a dar 6 vueltas por segundo, será:",
+                            "options": [
+                                "9F",
+                                "18F",
+                                "36F",
+                                "F",
+                                "27F"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2013",
+                            "question": "Un cuerpo B descansa sobre una mesa horizontal y perfectamente lisa, está unido a otro cuerpo A mediante una cuerda que pasa por una polea. El cuerpo A se mantiene en posición vertical suspendida de la cuerda inextensible. El hilo es liberado a partir del reposo, sabiendo que la masa de A es de 5 kg y la masa de B es de 15 kg. La tensión del hilo que une A y B es, g=10 m/s<sup>2</sup>:",
+                            "options": [
+                                "37,5 N",
+                                "50 N",
+                                "107 N",
+                                "75 N",
+                                "42 N"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2013",
+                            "question": "Un cuerpo de 2 kg con velocidad de 10 m/s y sometido a una fuerza de 120 N, en la misma dirección y sentido de la velocidad del cuerpo, durante 2 s. La velocidad adquirida a los 2 segundos es:",
+                            "options": [
+                                "110 m/s",
+                                "120 m/s",
+                                "130 m/s",
+                                "140 m/s",
+                                "150 m/s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2014",
+                            "question": "La aceleración de la gravedad en la superficie de la Luna vale 1,6 m/s<sup>2</sup> y en la Tierra es de 9,8 m/s<sup>2</sup>. Para un cuerpo de masa igual a 4 kg, el peso en la superficie de la Luna es:",
+                            "options": [
+                                "64 N",
+                                "6,4 N",
+                                "39,2 N",
+                                "3,92 N",
+                                "392 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "Un bloque de 6 kg de masa está apoyado sobre una superficie rugosa. Cuando son aplicadas las fuerzas F1 y F2 de intensidades 25 N y 10 N respectivamente, en las direcciones y sentidos indicados en la figura, el bloque está en inminente movimiento. El coeficiente de rozamiento entre el bloque y la superficie será igual a, g= 10 m/s<sup>2</sup>:",
+                            "imageURL": "https://drive.google.com/thumbnail?id=150SDQR7PZDBQ-P8ohZXnP1f4lsaMKLZE",
+                            "options": [
+                                "0,1",
+                                "0,2",
+                                "0,3",
+                                "0,4",
+                                "0,5"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "En el piso de un vagón de tren son colocados unas cajas, cuyo coeficiente de rozamiento estático con el piso es de 0,40. Si el vagón se mueve a 72 km/h la menor distancia que el tren puede recorrer hasta carar sin que las cajas se deslicen es:",
+                            "options": [
+                                "20 m",
+                                "35 m",
+                                "50 m",
+                                "80 m",
+                                "100 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2016",
+                            "question": "Una nave espacial se pasa en la luna (g= 1,7 m/s<sup>2</sup>). Un astronauta recoge y mide la masa de una muestra de oro, midiendo 9,8 kg. Al regresar a la Tierra (g= 10 m/s<sup>2</sup>), mide nuevamente la muestra, y encuentra que la masa es:",
+                            "options": [
+                                "56 kg",
+                                "16,7 kg",
+                                "5,8 kg",
+                                "1,0 kg",
+                                "9,8 kg"
+                            ],
+                            "answer": "e"
+                        },
+                        {
+                            "year": "2016",
+                            "question": "Un bloque cuya masa es de 5 kg en movimiento rectilíneo sobre una superficie horizontal, por una fuerza F también horizontal. Actúa en el bloque una fuerza de intensidad constante de 2 N, se observa que la velocidad del bloque varía de 0,5 m/s a 2 m/s en un intervalo de 3 s. La resultante de las fuerzas que actúan en el bloque vale:",
+                            "options": [
+                                "5 N",
+                                "2 N",
+                                "2,5 N",
+                                "10 N",
+                                "0,5 N"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2016 SR",
+                            "question": "Si la fuerza centrípeta a la que está sometido un cuerpo de masa 500 g es de 400 N cuando realiza un movimiento circular uniforme de radio 8 m, cuánto tarda en completar un giro:",
+                            "options": [
+                                "0,628 s",
+                                "6,28 s",
+                                "62,8 s",
+                                "628 s",
+                                "6280 s"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2016 SR",
+                            "question": "La afirmación correcta es:",
+                            "options": [
+                                "La masa y el peso de un cuerpo se mantienen constantes en cualquier punto de la Tierra.",
+                                "La masa es constante, pero en cambio el peso varía de un punto a otro de la superficie terrestre.",
+                                "La masa de un cuerpo varía a medida que se aleja de la superficie.",
+                                "El peso de un cuerpo es independiente de la posición geográfica donde se lo cuida.",
+                                "El peso de un cuerpo es constante, pero en cambio su masa varía de un punto a otro de la superficie terrestre."
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2016 SR, 2022 PreCPAM",
+                            "question": "La fuerza que es necesario aplicar a un cuerpo de 30 kg de masa para lograr que varíe su velocidad a razón de 3 m/s en cada minuto, es:",
+                            "options": [
+                                "15 N",
+                                "1,5 N",
+                                "25 N",
+                                "2,5 N",
+                                "10 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2016 1P SR, 2017 1P",
+                            "question": "De acuerdo con el principio de la inercia:",
+                            "options": [
+                                "Los cuerpos en movimiento tienden a parar.",
+                                "Los cuerpos en movimiento tienden a continuar en movimiento y los cuerpos en reposo tienden a permanecer en reposo.",
+                                "Los cuerpos tienden siempre a entrar en movimiento.",
+                                "Los cuerpos en movimiento tienden a parar y los cuerpos en reposo tienden a entrar en movimiento.",
+                                "Nada corresponde."
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 1P SR",
+                            "question": "Un bloque es estirado sobre una superficie horizontal por una fuerza también horizontal de 20 N, una fuerza de rozamiento constante e igual a 5 N actúa en el bloque. En estas condiciones, si el bloque tiene una masa de 5 kg y parte del reposo, su velocidad después de 3 s será:",
+                            "options": [
+                                "20 m/s",
+                                "9 m/s",
+                                "5 m/s",
+                                "15 m/s",
+                                "3 m/s"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2017 1P SR",
+                            "question": "Un bloque de 1 kg de masa desliza sobre una superficie horizontal rugosa, con una velocidad constante de 10 m/s cuando actúa sobre él una fuerza de 2 N paralela a la superficie. El coeficiente de rozamiento valdrá aproximadamente:",
+                            "options": [
+                                "0,2",
+                                "2,0",
+                                "20",
+                                "1,0",
+                                "10,0"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2017 SR",
+                            "question": "La fuerza necesaria para detener, en un espacio de 30 m, un automóvil de 122 kgf de peso animado de una velocidad de 90 km/h, es:",
+                            "options": [
+                                "15495 N",
+                                "12495 N",
+                                "1270 N",
+                                "1254 N",
+                                "1200 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 SR",
+                            "question": "De acuerdo a la tercera ley de Newton las fuerzas que forman un par acción-reacción presentan las características siguientes, excepto:",
+                            "options": [
+                                "Mismo módulo",
+                                "Misma dirección",
+                                "Sentidos opuestos",
+                                "Actúan sobre cuerpos diferentes",
+                                "Se anulan una a otra"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "El cuerpo A de la figura tiene una masa de 10 kg y está en reposo. A partir de un determinado instante el cuerpo es empujado por una fuerza motora de 30 N. Sabiendo que el coeficiente de rozamiento entre las superficies vale 0,2, la distancia, en m, recorrida entre 3 s, es: (g= 10 m/s<sup>2</sup>)",
+                            "imageURL": "https://drive.google.com/thumbnail?id=1esjtcp4WEt-PPho81sU7S4E4r0riV3m0",
+                            "options": [
+                                "4,5",
+                                "5,4",
+                                "54",
+                                "45",
+                                "9"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2017 1P, 2017 1P SR, 2019 SR",
+                            "question": "Un bloque de 2 kg resbala sin fricción hacia debajo de un plano inclinado que forma un ángulo de 30° con la horizontal. La masa parte del reposo y al haber resbalado 3 m sobre el plano inclinado su velocidad instantánea será en m/s:",
+                            "options": [
+                                "7,42",
+                                "3,43",
+                                "4,42",
+                                "5,42",
+                                "6,42"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2017 SR",
+                            "question": "Una masa de 2m está enganchada a otra masa m a través de una cuerda, como se muestra en la figura. Una fuerza N actúa sobre la masa m y acelera el sistema. La fuerza F en la cuerda que actúa sobre la masa 2m vale:",
+                            "imageURL": "https://drive.google.com/thumbnail?id=1bnnAWxNxOE1uNI-5JgWzqlgqMHDNj_3U",
+                            "options": [
+                                "3/2 N",
+                                "1 N",
+                                "2 N",
+                                "2/3 N",
+                                "3 N"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2018 1P",
+                            "question": "Calcular cuánto aumenta la velocidad de una masa de 200 g cuando actúa sobre él la fuerza constante de 40 N durante 10 min:",
+                            "options": [
+                                "120000 m/s",
+                                "120 m/s",
+                                "1200 m/s",
+                                "112000 m/s",
+                                "11000 m/s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2018 1P",
+                            "question": "Dos cuerpos de 20 kg y 30 kg respectivamente están unidos por una cuerda que pasa por una polea. Ambos cuerpos cuelgan libremente. ¿Cuál es la fuerza de tensión del hilo que los soporta?",
+                            "options": [
+                                "235,1 N",
+                                "200,2 N",
+                                "200 N",
+                                "400 N",
+                                "10 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P",
+                            "question": "Un elevador de 2500 kgf asciende con una aceleración de 2 m/s<sup>2</sup>, por acción de la fuerza de los cuatro cables que lo sostienen. Calcular la fuerza de tensión en cada cable:",
+                            "options": [
+                                "7375 N",
+                                "7573 N",
+                                "5735 N",
+                                "3557 N",
+                                "15737 N"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2018 1P, 2018 1P SR, 2019 SR",
+                            "question": "La masa de un camión es de 1000 kg. Para empujarlo suavemente a una velocidad constante por una calle horizontal es necesaria una fuerza de 400 N. Si esa fuerza fuera substituida por otra de 1 300 N, la aceleración, en m/s<sup>2</sup>, del camión sería entonces de:",
+                            "options": [
+                                "0,40",
+                                "0,90",
+                                "1,30",
+                                "1,70",
+                                "2,10"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P SR",
+                            "question": "La fuerza que debe actuar sobre un cuerpo de 600 kg para que alcance en 45 s la rapidez de 108 km/h es:",
+                            "options": [
+                                "400 N",
+                                "1440 N",
+                                "200 N",
+                                "720 N",
+                                "800 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P SR",
+                            "question": "Un tren que lleva una velocidad de 72 km/h utiliza para frenar una fuerza de de su peso. Calcular el tiempo que le toma detenerse. Admitir g=10m/s<sup>2</sup>:",
+                            "options": [
+                                "40 s",
+                                "20 s",
+                                "15 s",
+                                "30 s",
+                                "40 s"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018",
+                            "question": "Haciendo una fuerza F sucesivamente sobre dos cuerpos A y B que adquieren respectivamente aceleraciones a y b, con a = 2b. Si la misma fuerza F fuera aplicada al sistema formado por los cuerpos A y B unidos rígidamente, la aceleración del sistema será:",
+                            "options": [
+                                "a + b",
+                                "3b",
+                                "3a",
+                                "a/3",
+                                "b/3"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018",
+                            "question": "Un cuerpo posee una velocidad de 20 cm/s y actúa sobre él una fuerza de 120 N que después de 5 s le hace adquirir una velocidad de 8 cm/s. ¿Cuál es la masa del cuerpo, en kg?",
+                            "options": [
+                                "4000",
+                                "7000",
+                                "6000",
+                                "5000",
+                                "8000"
+                            ],
+                            "answer": "e"
+                        },
+                        {
+                            "year": "2019 1P",
+                            "question": "Unos mineros están introduciendo equipos en un elevador de carga que se encuentra en un pique vertical, sin embargo, ante una falla de seguridad lo sobrecargan y el cable desgastado se corta. En el momento del accidente la masa del elevador cargado es de 1600 kg. Al caer, los carriles guías ejercen sobre él una fuerza retardadora de 3700 N. ¿Con qué rapidez aproximadamente, en m/s, chocará el elevador contra el fondo del pique 72 m abajo?",
+                            "options": [
+                                "36,8",
+                                "34,8",
+                                "30,8",
+                                "32,8",
+                                "28,8"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2019 1P SR",
+                            "question": "Un auto lleva una velocidad de 20 m/s en el instante en que aplica los frenos en forma constante, y recorre 50 m hasta llegar al reposo. Determinar el coeficiente cinético de rozamiento entre las llantas y el asfalto.",
+                            "options": [
+                                "0,35",
+                                "0,22",
+                                "0,4",
+                                "0,44",
+                                "0,64"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2019",
+                            "question": "Un bloque de roca se desliza por una ladera y adquiere una velocidad de 80 km/h al llegar a una superficie de un camino plano (horizontal), y se detiene a los 40 metros, el peso aproximado es de 13000 N, encuentre la fuerza que ejerce el piso en Newton, sobre el bloque para frenarlo.",
+                            "options": [
+                                "7000,5",
+                                "7194,7",
+                                "7817,7",
+                                "8184,7",
+                                "8251,5"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022",
+                            "question": "Una fuerza constante de 5 N de intensidad, imprime una aceleración de 8 m/s<sup>2</sup> a un cuerpo de masa m1. La misma fuerza, actuando sobre un cuerpo de masa m2, le imprime una aceleración de 24 m/s<sup>2</sup>. La aceleración que esa fuerza imprimiría a los dos cuerpos juntos sería:",
+                            "options": [
+                                "6 m/s<sup>2</sup>",
+                                "8 m/s<sup>2</sup>",
+                                "4 m/s<sup>2</sup>",
+                                "9,8 m/s<sup>2</sup>",
+                                "10 m/s<sup>2</sup>"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2022 1P CPAM, 2022 Final CPAM H",
+                            "question": "Se aplica una fuerza F a una masa m<sub>1</sub> y esta experimenta una aceleración a. La masa fuerza F aplicada a una masa (m<sub>1</sub> + m<sub>2</sub>) produce una aceleración a/4. Se concluye entonces que:",
+                            "options": [
+                                "m<sub>1</sub> = 4/3",
+                                "m<sub>2</sub> = 5m<sub>1</sub>",
+                                "m<sub>2</sub> = 3m<sub>1</sub>",
+                                "m<sub>1</sub> = 3m<sub>2</sub>",
+                                "m<sub>1</sub> = 5m<sub>2</sub>"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022 1P CPAM SR, 2022 Final CPAM A",
+                            "question": "Dos cuerpos unidos, uno de 2 kg y otro de 3 kg, están suspendidos mediante una cuerda que pasa por una polea (hilo ideal y sin rozamiento). La tensión del hilo en Newton es aproximadamente:",
+                            "options": [
+                                "24",
+                                "10",
+                                "20",
+                                "30",
+                                "50"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022 1P CPAM",
+                            "question": "Un automóvil de 1512 kg se mueve a 60 km/h. Los frenos son accionados produciendo una desaceleración constante y el auto para en 1,2 min. La fuerza aplicada en ese automóvil, en N, es:",
+                            "options": [
+                                "350",
+                                "1260",
+                                "21000",
+                                "25200",
+                                "75600"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2022 Final CPAM H",
+                            "question": "Considere dos bloques de 3 kg y 8 kg de masa respectivamente, colocados sobre una superficie horizontal y unidos por una cuerda. Ambos bloques en conjunto son tirados por una cuerda cuya tensión es de 58 N, la fricción entre los bloques y la superficie es de 0,33. Determine la aceleración de los bloques.",
+                            "options": [
+                                "2,04 m/s<sup>2</sup>",
+                                "4,27 m/s<sup>2</sup>",
+                                "2,5 m/s<sup>2</sup>",
+                                "732,5 m/s<sup>2</sup>",
+                                "75 m/s<sup>2</sup>"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2022 Final CPAM H",
+                            "question": "Dos cuerpos se equilibran cuando son colocados en los platos de una balanza de brazos iguales. Enseguida uno de ellos es acelerado por una fuerza resultante de 2 N. Se verifica entonces que su velocidad varía 8 m/s cada 2 segundos. La masa del cuerpo situado en la balanza es:",
+                            "options": [
+                                "1/4 kg",
+                                "1/2 kg",
+                                "1 kg",
+                                "2 kg",
+                                "4 kg"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022 Final CPAM A",
+                            "question": "A un cuerpo de 200 g, en reposo, es aplicada una fuerza horizontal de 0,8 N. Despreciando el rozamiento, ¿cuál es el espacio recorrido por el cuerpo en 10 segundos?",
+                            "options": [
+                                "10 m",
+                                "20 m",
+                                "200 m",
+                                "2000 m",
+                                "5 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2022 Final CPAM A",
+                            "question": "Un proyectil de 20 g, con velocidad de 250 m/s, dirigida horizontalmente, alcanza una placa de madera penetrando en ella 30 cm. Determinar la fuerza de resistencia opuesta por la madera al movimiento de la bala.",
+                            "options": [
+                                "1083 N",
+                                "2083 N",
+                                "4083 N",
+                                "0",
+                                "5083 N"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2023 PreCPAM",
+                            "question": "Un cuerpo de masa \"m\" sube por un plano inclinado que forma un ángulo de 37° con la horizontal, empujado por la fuerza horizontal, respecto al plano, F = m.g. Sabiendo que el coeficiente de rozamiento dinámico entre el plano y el cuerpo vale 1/14, calcular el valor de la aceleración de subida del cuerpo.",
+                            "options": [
+                                "3,34 m/s<sup>2</sup>",
+                                "5 m/s<sup>2</sup>",
+                                "6,2 m/s<sup>2</sup>",
+                                "4,2 m/s<sup>2</sup>",
+                                "8 m/s<sup>2</sup>"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2023 PreCPAM SR",
+                            "question": "Un cuerpo con una masa de 10 g cae desde una altura de 3 m en una superficie con arena. El cuerpo penetra 3 cm en la arena hasta detenerse. ¿Qué fuerza ha ejercido la arena sobre el cuerpo?",
+                            "options": [
+                                "12,2 N",
+                                "14 N",
+                                "7,8 N",
+                                "9,8 N",
+                                "6,8 N"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2023 1P",
+                            "question": "Una fuerza F actúa sobre un bloque de 1 kg, el cual está apoyado sobre un plano inclinado de 30° que tiene un coeficiente de rozamiento \\(\\sqrt{\\frac{3}{4}} \\) sabiendo que g = 10 m/s<sup>2</sup>, el módulo de la fuerza necesaria para que el bloque suba por el plano inclinado con velocidad constante será:",
+                            "options": [
+                                "70 N",
+                                "700 N",
+                                "170 N",
+                                "7 N",
+                                "12,5 N"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2023 1P CPAM",
+                            "question": "Un cuerpo de 70 kg descansa sobre una mesa horizontal, unido por una cuerda que pasa por una polea a un segundo cuerpo de 50 kg que cuelga libremente. Sabiendo que la masa de la cuerda es despreciable, como todas las fuerzas de rozamiento, indicar el valor de la aceleración del cuerpo de 50 kg, g = 10 m/s<sup>2</sup>.",
+                            "options": [
+                                "9,8 m/s<sup>2</sup>",
+                                "10 m/s<sup>2</sup>",
+                                "4,2 m/s<sup>2</sup>",
+                                "2 m/s<sup>2</sup>",
+                                "6,9 m/s<sup>2</sup>"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2023 1P",
+                            "question": "Dos bloques idénticos están unidos por un hila liviano y flexible. Adopte g = 10 m/s<sup>2</sup>. Uno de ellos apoyado sobre una mesa horizontal, mientras que el otro se encuentra suspendido verticalmente. La masa de la cuerda es despreciable y el coeficiente de rozamiento es igual a 0,2. La aceleración de los bloques es:",
+                            "options": [
+                                "5 m/s<sup>2</sup>",
+                                "4 m/s<sup>2</sup>",
+                                "3,5 m/s<sup>2</sup>",
+                                "6 m/s<sup>2</sup>",
+                                "10 m/s<sup>2</sup>"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2023 Final CPAM H",
+                            "question": "Un ascensor que se encuentra cargado se levanta con una aceleración de 2,5 m/s<sup>2</sup>. Si la tensión en el cable que lo soporta es de 9600 N, ¿Cuál es la masa, en kg, del elevador y su contenido?",
+                            "options": [
+                                "1020,5",
+                                "910,5",
+                                "850,5",
+                                "810,5",
+                                "780,5"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2023 Final CPAM H",
+                            "question": "Una bola de 100 kg se hace descender por medio de un cable, con una aceleración hacia abajo de 5 m/s<sup>2</sup>. La tensión en el cable, en N, es:",
+                            "options": [
+                                "228",
+                                "480",
+                                "345",
+                                "410",
+                                "506"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2023 Final CPAM A",
+                            "question": "El coeficiente de fricción estática que corresponde a la madera sobre madera es de 0,7. Entonces, el ángulo máximo que puede adoptar un plano inclinado de madera para que un bloque, también de madera, permanezca en reposo sobre el plano es:",
+                            "options": [
+                                "15°",
+                                "25°",
+                                "35°",
+                                "45°",
+                                "55°"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2024 PreCPAM",
+                            "question": "De una cuerda que pasa por una polea prenden dos masas, una de 7 kg y otra de 9 kg. Suponiendo que no hay rozamiento, la tensión de la cuerda es, aproximadamente:",
+                            "options": [
+                                "57 N",
+                                "67 N",
+                                "77 N",
+                                "47 N",
+                                "87 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2024 PreCPAM-R",
+                            "question": "Un plano inclinado, que forma un ángulo de 30° con la horizontal, tiene una polea en la parte superior. Un bloque de 30 kg que descansa sobre el plano inclinado está ligado, por medio de un hilo que pasa por una polea a otro bloque de 20 kg, que cuelga libremente. Adoptando g= 10 m/s<sup>2</sup>, la distancia que el bloque de 20 kg recorre en 2 s, partiendo del reposo, es en m:",
+                            "options": [
+                                "2 m",
+                                "4 m",
+                                "6 m",
+                                "8 m",
+                                "10 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2024 PreCPAM-R",
+                            "question": "Una locomotora de 50000 kg se desplaza horizontalmente a 72 km/h. En un momento dado el tren enfrenta una obstrucción debido a un barranco. Sin que el maquinista accione ningún comando, avanza y vence la barrera en 5 s, reduciendo su velocidad a la mitad. La fuerza media ejercida por la barrera sobre la locomotora, en N, es:",
+                            "options": [
+                                "-10<sup>7</sup>",
+                                "10<sup>6</sup>",
+                                "10<sup>5</sup>",
+                                "10<sup>8</sup>",
+                                "10<sup>4</sup>"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2024 PreCPAM-R",
+                            "question": "Al subir en el elevador de un edificio se nota, en la arrancada, que los pernos soportan un peso mayor. Adoptando g= 10 m/s<sup>2</sup>, imagine que un niño de 40 kg parado sobre una balanza graduada en N dentro del elevador. El peso que la balanza registra, si el elevador sube con aceleración de 2 m/s<sup>2</sup>, es:",
+                            "options": [
+                                "480 N",
+                                "400 N",
+                                "320 N",
+                                "24 N",
+                                "80 N"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2024 1P CPAM",
+                            "question": "Un automóvil se mueve en un camino recto y horizontal, con velocidad constante de 30 m/s. En un instante dado, el auto es frenado, y, hasta parar recorre 75 m. Determinar el coeficiente de rozamiento entre el camino y la cubierta. Considerar g 10 m/s<sup>2</sup>.",
+                            "options": [
+                                "6,2",
+                                "0,12",
+                                "0,25",
+                                "0,6",
+                                "1"
+                            ],
+                            "answer": "c"
+                        }
+                    ]
+                }
+            }
+        },
         "Unidad 4: Hidrostática": {
             "questions": [
                 {
