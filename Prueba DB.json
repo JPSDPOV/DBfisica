@@ -3779,6 +3779,18 @@
                         },
                         {
                             "year": "2017 1P SR",
+                            "question": "Un camión de entrega de mercaderías salió para hacer sus entregas del día. El camión se estaba moviendo con una velocidad de 20 m/s sobre una superficie horizontal, cuando el conductor ve uno de los lugares donde debía hacer una de sus entregas, frena uniformemente y se detiene en 4 s. El mínimo coeficiente de rozamiento estático entre las cajas y el camión es: g= 10 m/s<sup>2</sup>",
+                            "options": [
+                                "0,3",
+                                "0,42",
+                                "0,5",
+                                "0,6",
+                                "0,64"
+                            ],
+                            "answer":"c"
+                        },
+                        {
+                            "year": "2017 1P SR",
                             "question": "Un bloque de 1 kg de masa desliza sobre una superficie horizontal rugosa, con una velocidad constante de 10 m/s cuando actúa sobre él una fuerza de 2 N paralela a la superficie. El coeficiente de rozamiento valdrá aproximadamente:",
                             "options": [
                                 "0,2",
