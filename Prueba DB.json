@@ -4261,7 +4261,7 @@
                                 "La energía potencial gravitacional está disminuyendo",
                                 "La energía potencial gravitacional es constante"
                             ],
-                            "answer": "e"
+                            "answer": "d"
                         },
                         {
                             "year": "2003",
@@ -4273,7 +4273,7 @@
                                 "2,5",
                                 "3"
                             ],
-                            "answer": "c"
+                            "answer": "b"
                         },
                         {
                             "year": "2003",
@@ -4286,7 +4286,7 @@
                                 "2 𝛑 J",
                                 "4𝛑 J"
                             ],
-                            "answer": "c"
+                            "answer": "b"
                         },
                         {
                             "year": "2003",
@@ -4334,7 +4334,7 @@
                                 "27 m/s",
                                 "30 m/s"
                             ],
-                            "answer": "c"
+                            "answer": "b"
                         },
                         {
                             "year": "2004",
@@ -4346,7 +4346,7 @@
                                 "24.10<sup>6</sup>",
                                 "24.10<sup>7</sup>"
                             ],
-                            "answer": "d"
+                            "answer": "c"
                         },
                         {
                             "year": "2005",
@@ -4370,7 +4370,7 @@
                                 "3,6 J",
                                 "2 J"
                             ],
-                            "answer": "a"
+                            "answer": "b"
                         },
                         {
                             "year": "2005",
@@ -4382,7 +4382,7 @@
                                 "18",
                                 "5"
                             ],
-                            "answer": "c"
+                            "answer": "d"
                         },
                         {
                             "year": "2006, 2007",
@@ -4394,7 +4394,7 @@
                                 "5 s",
                                 "4 s"
                             ],
-                            "answer": "b"
+                            "answer": "e"
                         },
                         {
                             "year": "2006, 2009",
@@ -4418,7 +4418,7 @@
                                 "800 J",
                                 "50 J"
                             ],
-                            "answer": "b"
+                            "answer": "c"
                         },
                         {
                             "year": "2007",
@@ -4442,7 +4442,7 @@
                                 "32 J",
                                 "64 J"
                             ],
-                            "answer": "b"
+                            "answer": "d"
                         },
                         {
                             "year": "2010, 2015 SR",
@@ -4466,7 +4466,7 @@
                                 "20",
                                 "10"
                             ],
-                            "answer": "b"
+                            "answer": "d"
                         },
                         {
                             "year": "2010, 2015, 2022",
@@ -4490,7 +4490,7 @@
                                 "32400 J",
                                 "50000 J"
                             ],
-                            "answer": "d"
+                            "answer": "a"
                         },
                         {
                             "year": "2011, 2015 SR, 2022",
@@ -4502,7 +4502,7 @@
                                 "750 J",
                                 "400 J"
                             ],
-                            "answer": "b"
+                            "answer": "c"
                         },
                         {
                             "year": "2011",
@@ -4550,7 +4550,7 @@
                                 "5.10<sup>7</sup> J",
                                 "6.10<sup>7</sup> J"
                             ],
-                            "answer": "d"
+                            "answer": "e"
                         },
                         {
                             "year": "2013",
@@ -4574,7 +4574,7 @@
                                 "0,5",
                                 "10"
                             ],
-                            "answer": "b"
+                            "answer": "a"
                         },
                         {
                             "year": "2013",
@@ -4586,7 +4586,7 @@
                                 "1470 N",
                                 "1570 N"
                             ],
-                            "answer": "b"
+                            "answer": "d"
                         },
                         {
                             "year": "2014",
@@ -4610,7 +4610,7 @@
                                 "840 W",
                                 "210 W"
                             ],
-                            "answer": "b"
+                            "answer": "c"
                         },
                         {
                             "year": "2015",
@@ -4622,7 +4622,7 @@
                                 "4500 J",
                                 "6000 J"
                             ],
-                            "answer": "b"
+                            "answer": "a"
                         },
                         {
                             "year": "2015",
@@ -4634,7 +4634,7 @@
                                 "A realiza menos trabajo que B",
                                 "A al transportar una mayor carga que B es menos potente"
                             ],
-                            "answer": "a"
+                            "answer": "c"
                         },
                         {
                             "year": "2015 SR, 2017 1P",
@@ -4658,7 +4658,7 @@
                                 "Disminuir el 50%",
                                 "Aumentar \\(\\sqrt{2}\\) veces"
                             ],
-                            "answer": "a"
+                            "answer": "e"
                         },
                         {
                             "year": "2015 SR",
@@ -4670,7 +4670,7 @@
                                 "Solo dos de las tres primeras son correctas",
                                 "Las tres primeras son correctas"
                             ],
-                            "answer": "e"
+                            "answer": "c"
                         },
                         {
                             "year": "2015, 2017 SR",
@@ -4706,7 +4706,7 @@
                                 "27 m/s",
                                 "30 m/s"
                             ],
-                            "answer": "c"
+                            "answer": "b"
                         },
                         {
                             "year": "2016, 2017, 2017 SR",
@@ -4766,7 +4766,7 @@
                                 "20 kW",
                                 "10 kW"
                             ],
-                            "answer": "b"
+                            "answer": "c"
                         },
                         {
                             "year": "2017 1P",
@@ -4778,7 +4778,7 @@
                                 "h/4",
                                 "h/5"
                             ],
-                            "answer": "c"
+                            "answer": "d"
                         },
                         {
                             "year": "2017 1P",
@@ -4802,7 +4802,7 @@
                                 "Cuatro veces menor que el primero.",
                                 "Igual al primero."
                             ],
-                            "answer": "b"
+                            "answer": "a"
                         },
                         {
                             "year": "2017 1P",
@@ -4814,7 +4814,7 @@
                                 "10<sup>3</sup> W",
                                 "5.10<sup>5</sup> W"
                             ],
-                            "answer": "b"
+                            "answer": "a"
                         },
                         {
                             "year": "2017 1P",
@@ -4826,7 +4826,7 @@
                                 "100 HP",
                                 "110 HP"
                             ],
-                            "answer": "d"
+                            "answer": "c"
                         },
                         {
                             "year": "2017 1P, 2019 1P",
@@ -4862,7 +4862,7 @@
                                 "se cuadruplica",
                                 "disminuye cuatro veces"
                             ],
-                            "answer": "a"
+                            "answer": "d"
                         },
                         {
                             "year": "2017 1P",
@@ -4874,7 +4874,7 @@
                                 "47,5 J",
                                 "95 J"
                             ],
-                            "answer": "d"
+                            "answer": "a"
                         },
                         {
                             "year": "2017, 2021",
@@ -4910,7 +4910,7 @@
                                 "100",
                                 "150"
                             ],
-                            "answer": "c"
+                            "answer": "a"
                         },
                         {
                             "year": "2018",
@@ -4922,7 +4922,7 @@
                                 "14994,6 W",
                                 "10994,6 W"
                             ],
-                            "answer": "b"
+                            "answer": "a"
                         },
                         {
                             "year": "2018 1P, 2019 1P",
@@ -4934,7 +4934,7 @@
                                 "8,0",
                                 "7,6"
                             ],
-                            "answer": "b"
+                            "answer": "d"
                         },
                         {
                             "year": "2018 1P",
@@ -4958,7 +4958,7 @@
                                 "44250 J",
                                 "16635 J"
                             ],
-                            "answer": "c"
+                            "answer": "a"
                         },
                         {
                             "year": "2018 1P SR",
@@ -4970,7 +4970,7 @@
                                 "disminuye a los 3/8",
                                 "aumenta 3/8 veces"
                             ],
-                            "answer": "c"
+                            "answer": "d"
                         },
                         {
                             "year": "2018 1P SR",
@@ -4982,7 +4982,7 @@
                                 "18 m",
                                 "20 m"
                             ],
-                            "answer": "b"
+                            "answer": "a"
                         },
                         {
                             "year": "2018 1P SR",
@@ -5006,7 +5006,7 @@
                                 "12,17 m",
                                 "14,17 m"
                             ],
-                            "answer": "c"
+                            "answer": "e"
                         },
                         {
                             "year": "2019",
@@ -5018,7 +5018,7 @@
                                 "623,6",
                                 "294,0"
                             ],
-                            "answer": "d"
+                            "answer": "e"
                         },
                         {
                             "year": "2019 1P",
@@ -5030,7 +5030,7 @@
                                 "8",
                                 "32"
                             ],
-                            "answer": "a"
+                            "answer": "d"
                         },
                         {
                             "year": "2019 2P, 2019 SR",
@@ -5042,7 +5042,7 @@
                                 "4,74",
                                 "6,74"
                             ],
-                            "answer": "c"
+                            "answer": "b"
                         },
                         {
                             "year": "2019 SR",
@@ -5054,7 +5054,7 @@
                                 "6750",
                                 "6850"
                             ],
-                            "answer": "c"
+                            "answer": "d"
                         },
                         {
                             "year": "2021",
@@ -5091,7 +5091,7 @@
                                 "200 N",
                                 "76,7 N"
                             ],
-                            "answer": "b"
+                            "answer": "e"
                         },
                         {
                             "year": "2022 1P CPAM",
@@ -5103,7 +5103,7 @@
                                 "142 J",
                                 "600 J"
                             ],
-                            "answer": "c"
+                            "answer": "a"
                         },
                         {
                             "year": "2022 1P CPAM SR",
@@ -5127,7 +5127,7 @@
                                 "750 W",
                                 "300 W"
                             ],
-                            "answer": "a"
+                            "answer": "b"
                         },
                         {
                             "year": "2022 Final CPAM H",
@@ -5139,7 +5139,7 @@
                                 "100 HP",
                                 "100 CV"
                             ],
-                            "answer": "a"
+                            "answer": "b"
                         },
                         {
                             "year": "2022 Final CPAM H",
@@ -5151,7 +5151,7 @@
                                 "4,5",
                                 "5,5"
                             ],
-                            "answer": "b"
+                            "answer": "a"
                         },
                         {
                             "year": "2022 Final CPAM H",
@@ -5163,7 +5163,7 @@
                                 "8,82 HP",
                                 "1,01 HP"
                             ],
-                            "answer": "b"
+                            "answer": "e"
                         },
                         {
                             "year": "2022 Final CPAM H",
@@ -5175,7 +5175,7 @@
                                 "60 m",
                                 "15 m"
                             ],
-                            "answer": "b"
+                            "answer": "c"
                         },
                         {
                             "year": "2022 Final CPAM H",
@@ -5187,7 +5187,7 @@
                                 "20 m",
                                 "40 m"
                             ],
-                            "answer": "c"
+                            "answer": "d"
                         },
                         {
                             "year": "2022 Final CPAM A",
@@ -5247,7 +5247,7 @@
                                 "600 N",
                                 "530 N"
                             ],
-                            "answer": "d"
+                            "answer": "e"
                         },
                         {
                             "year": "2024 1P CPAM",
@@ -5259,7 +5259,7 @@
                                 "25 m/s",
                                 "35 m/s"
                             ],
-                            "answer": "d"
+                            "answer": "b"
                         }
                     ]
                 }
