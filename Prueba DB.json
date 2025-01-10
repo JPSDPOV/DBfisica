@@ -3787,7 +3787,7 @@
                                 "0,6",
                                 "0,64"
                             ],
-                            "answer":"c"
+                            "answer": "c"
                         },
                         {
                             "year": "2017 1P SR",
@@ -4246,6 +4246,1020 @@
                                 "1"
                             ],
                             "answer": "c"
+                        }
+                    ]
+                },
+                "Trabajo, Energía y Potencia": {
+                    "questions": [
+                        {
+                            "year": "2003",
+                            "question": "Un ciclista desciende por una ladera, con un fuerte viento contrario al movimiento. Pedaleando vigorosamente, él consigue mantener la velocidad constante. Se puede afirmar que:",
+                            "options": [
+                                "La energía cinética está aumentando.",
+                                "La energía cinética está disminuyendo",
+                                "La energía potencial gravitacional está aumentando",
+                                "La energía potencial gravitacional está disminuyendo",
+                                "La energía potencial gravitacional es constante"
+                            ],
+                            "answer": "e"
+                        },
+                        {
+                            "year": "2003",
+                            "question": "Un cuerpo sujeto a una fuerza constante de 20 N se mueve en línea recta. La variación de la energía cinética del cuerpo entre los puntos A y B, es igual a 30 J. La distancia entre A y B, en m es:",
+                            "options": [
+                                "1",
+                                "1,5",
+                                "2",
+                                "2,5",
+                                "3"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2003",
+                            "question": "Un cuerpo se desliza desde A hasta B en una semicircunferencia horizontal de radio igual a 2 m, como indica la figura. La fuerza F constante y de módulo F= 2 N, es una fuerza que actúa sobre el cuerpo durante su movimiento, siempre paralela a la dirección del movimiento. El trabajo realizado por la fuerza F a lo largo de la trayectoria AB es:",
+                            "imageURL": "https://drive.google.com/thumbnail?id=1ZQTVkIgrP4EtRkM7-yYu8emheRDFfKI5",
+                            "options": [
+                                "0 J",
+                                "8 J",
+                                "4 J",
+                                "2 𝛑 J",
+                                "4𝛑 J"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2003",
+                            "question": "Un cuerpo de masa m cae verticalmente, a partir del reposo, de una altura H sobre el nivel del suelo. Despreciando la resistencia del aire, cuando el cuerpo se encuentra a una altura H/3 del suelo, sus energías cinéticas y potencial, para un punto referencial fijo en el suelo, están relacionadas.",
+                            "options": [
+                                "Ec = Ep",
+                                "Ec = 1,5Ep",
+                                "Ec = 2Ep",
+                                "Ec = 3Ep",
+                                "Ec = 4Ep"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2003",
+                            "question": "Un cuerpo de 2 kg de masa es lanzado verticalmente hacia arriba con una energía mecánica de 1000 J. Durante la subida, el cuerpo pierde 20% de su energía mecánica, Calcule la máxima altura alcanzada, g 10m/s<sup>2</sup>:",
+                            "options": [
+                                "400 m",
+                                "40 m",
+                                "0,4 m",
+                                "4 m",
+                                "80 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2004",
+                            "question": "Un cuerpo de masa m y velocidad y posee energía cinética To. Si el módulo de la velocidad aumenta un 20%, la nueva energía cinética del cuerpo será:",
+                            "options": [
+                                "1,56 To",
+                                "1,44 To",
+                                "1,4 To",
+                                "1,2 To",
+                                "1,1 To"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2004",
+                            "question": "Una bola de 0,5 kg se suelta de un predio de 30 m de altura. Si la fuerza de resistencia del aire consume 50 J de energía a lo largo de su recorrido, la velocidad de la bola, al llegar al suelo, es: Considerar g = 10 m/s<sup>2</sup>.",
+                            "options": [
+                                "18 m/s",
+                                "20 m/s",
+                                "24 m/s",
+                                "27 m/s",
+                                "30 m/s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2004",
+                            "question": "Una caída de agua de 60 m de altura tiene un caudal de 4 m<sup>3</sup>/s, considerando g = 10 m/s<sup>2</sup>. La potencia máxima que la caída de agua podría suministrar es, en W:",
+                            "options": [
+                                "2,4",
+                                "2,4.10<sup>3</sup>",
+                                "24.10<sup>5</sup>",
+                                "24.10<sup>6</sup>",
+                                "24.10<sup>7</sup>"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2005",
+                            "question": "Un ascensor de 500 kg se eleva hasta 45 m, en 90 s, 6 personas de 80 kg cada una, teniendo velocidad constante. La aceleración de la gravedad es de 9,8 m/s<sup>2</sup>, despreciando las fuerzas disipativas, la potencia del motor, en W, es:",
+                            "options": [
+                                "2450",
+                                "490",
+                                "106",
+                                "4802",
+                                "980"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2005",
+                            "question": "Un cuerpo de masa igual a 2 kg es lanzado verticalmente para arriba, en el vacío, con una velocidad Inicial de 4 m/s, llega al suelo con una velocidad de 6 m/s. En relación al suelo, la energía potencial del cuerpo en el Instante de lanzamiento es:",
+                            "options": [
+                                "36 J",
+                                "20 J",
+                                "16 J",
+                                "3,6 J",
+                                "2 J"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2005",
+                            "question": "Un cuerpo de masa igual a 1 kg es lanzado oblicuamente, con una velocidad Inicial Vo que forma un ángulo θ con la horizontal. Sabiendo que la Vo vale 10 m/s, que sen θ = 0,8 y que cos θ = 0,6, la energía cinética del cuerpo al llegar a la altura máxima, en J, vale:",
+                            "options": [
+                                "0",
+                                "60",
+                                "32",
+                                "18",
+                                "5"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2006, 2007",
+                            "question": "Un motor de potencia útil 125 W, funcionando como elevador, eleva a 10 m de altura, con velocidad constante un cuerpo de peso igual a 50 N, en un tiempo de:",
+                            "options": [
+                                "0,4 s",
+                                "2,5 s",
+                                "12,5 s",
+                                "5 s",
+                                "4 s"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2006, 2009",
+                            "question": "Una rampa forma un ángulo de 30° con la horizontal. En esa rampa un hombre recorre una distancia de 4 m llevando un carrito de mano donde se encuentra un objeto de 60 kg. La mayor energía potencial que el objeto puede ganar, es: g=10 m/s<sup>2</sup>",
+                            "options": [
+                                "1200 J",
+                                "600 J",
+                                "300 J",
+                                "150 J",
+                                "100 J"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2006, 2018 1P SR",
+                            "question": "Una bola de 0,2 kg de masa lanzada verticalmente para abajo, con una velocidad inicial de 4 m/s. La bola pega en el suelo y vuelve a subir hasta su altura máxima, que es idéntica a la altura de lanzamiento. ¿Cuál es la energía perdida durante el movimiento?",
+                            "options": [
+                                "0 J",
+                                "1600 J",
+                                "1,6 J",
+                                "800 J",
+                                "50 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2007",
+                            "question": "La energía en los conceptos básicos de la física. El principio de conservación de la energía establece:",
+                            "options": [
+                                "La energía cinética es la energía que depende de la posición de un cuerpo, de un sistema de cuerpos, o de la posición relativa de sus cuerpos.",
+                                "La energía no puede ser creada o destruida, porque solamente es transformada.",
+                                "La energía potencial que un cuerpo posee está asociada a su estado de movimiento.",
+                                "La energía mecánica es la diferencia entre las energías cinéticas y potencial.",
+                                "La energía puede ser creada por fuentes energéticas y puede también ser destruida."
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2007",
+                            "question": "Un objeto de masa igual a 2 kg inicialmente en reposo, recorre una distancia igual a 8 m en una superficie horizontal sin rozamiento, bajo la acción de una fuerza constante, también horizontal, igual a 4 N. La variación de la energía cinética del objeto es:",
+                            "options": [
+                                "4 J",
+                                "8 J",
+                                "16 J",
+                                "32 J",
+                                "64 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2010, 2015 SR",
+                            "question": "Un cuerpo se mueve con cierta velocidad. Si su masa se reduce a las dos quintas partes y su velocidad se hace 5 veces mayor, entonces su energía cinética:",
+                            "options": [
+                                "Aumenta el doble",
+                                "Aumenta 10 veces",
+                                "Aumenta 5 veces",
+                                "Aumenta el triple",
+                                "Aumenta 25/2 veces"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2010, 2022, 2022 PreCPAM, 2023 PreCPAM SR",
+                            "question": "Una piedra de 2 kg se lanza del suelo, verticalmente hacia arriba, con una energía cinética de 500 J. Si en un determinado momento su velocidad fuera de 10 m/s, la piedra estará a una altura del suelo, en metros, de: g= 10 m/s<sup>2</sup>",
+                            "options": [
+                                "50",
+                                "40",
+                                "30",
+                                "20",
+                                "10"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2010, 2015, 2022",
+                            "question": "Un bloque de 10 kg es elevado verticalmente, con una velocidad constante de 5 m/s, a una altura de 20 m, si la aceleración de la gravedad es 10 m/s<sup>2</sup>, la potencia desarrollada es de:",
+                            "options": [
+                                "50 W",
+                                "0,5 W",
+                                "50 kW",
+                                "0,5 kW",
+                                "5 kW"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2011",
+                            "question": "Considere un punto material de 4 kg de masa, inicialmente en reposo, sobre un plano horizontal donde el rozamiento es despreciable. En el instante t = 0 s, se le aplica una fuerza horizontal de Intensidad 32 N. La energía cinética en el instante 20 s, será:",
+                            "options": [
+                                "51200 J",
+                                "106300 J",
+                                "42000 J",
+                                "32400 J",
+                                "50000 J"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2011, 2015 SR, 2022",
+                            "question": "Un cuerpo de 3 kg es lanzado verticalmente hacia abajo, con velocidad de 2 m/s, de una altura de 50 m. Adoptando g = 10 m/s<sup>2</sup>, la energía cinética en el punto medio de su trayectoria es de:",
+                            "options": [
+                                "1506 J",
+                                "1500 J",
+                                "756 J",
+                                "750 J",
+                                "400 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2011",
+                            "question": "Un cuerpo se encuentra en reposo, apoyado sobre una superficie plana y horizontal, cuando sobre él pasa a actuar una fuerza constante de 0,6 N. Sabiendo que el rozamiento entre las superficies de contacto es despreciable y que después de 5 segundos en cuerpo posee una energía cinética de 6 J, la distancia recorrida por el cuerpo en esos 5 segundos vale:",
+                            "options": [
+                                "10 m",
+                                "1 m",
+                                "20 m",
+                                "15 m",
+                                "25 m"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2012",
+                            "question": "Si en una caída de 50 m de agua tiene un caudal de 15 m<sup>3</sup>/min, la potencia generada por ella es: considere g=10 m/s<sup>2</sup> y densidad del agua 1000 kg/m<sup>3</sup>",
+                            "options": [
+                                "125 kW",
+                                "12,5 kW",
+                                "0,75 kW",
+                                "7500 kJ",
+                                "7500 J"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2012",
+                            "question": "Un cuerpo se encuentra en reposo, apoyado sobre una superficie plana y horizontal, sobre él pasa a actuar una fuerza constante de intensidad 0,6 N, sabiendo que el rozamiento entre las superficies de contacto es despreciable y que después de 5 segundos el cuerpo posee una energía cinética de 6 J, la masa del cuerpo, vale:",
+                            "options": [
+                                "0,75 kg",
+                                "1 kg",
+                                "2 kg",
+                                "5 kg",
+                                "2,5 kg"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2013",
+                            "question": "Una locomotora ejerce una fuerza de 5.10<sup>4</sup> N sobre un vagón que empuja a 60 km/h, en un trecho horizontal de una línea férrea. El trabajo realizado por la locomotora en una distancia de 1,2 km; es:",
+                            "options": [
+                                "2.10<sup>7</sup> J",
+                                "3.10<sup>7</sup> J",
+                                "4.10<sup>7</sup> J",
+                                "5.10<sup>7</sup> J",
+                                "6.10<sup>7</sup> J"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2013",
+                            "question": "Un carrito de 8 kg de masa se desplaza en una trayectoria rectilínea con velocidad de 36 km/h cuando frena y se detiene luego de recorrer 20 m. Calcular el trabajo realizado:",
+                            "options": [
+                                "400 J",
+                                "-400 J",
+                                "200 J",
+                                "-200 J",
+                                "500 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2013",
+                            "question": "Para que un cuerpo se desplace 5 m en 20 s son necesarios 10 N. la potencia desarrollada, suponiendo que la fuerza sea paralela al desplazamiento, es en W, de:",
+                            "options": [
+                                "2,5",
+                                "5",
+                                "20",
+                                "0,5",
+                                "10"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2013",
+                            "question": "La fuerza que está desarrollando un auto de 50 CV de potencia que se mueve con una velocidad constante de 90 km/h, es:",
+                            "options": [
+                                "1000 N",
+                                "1200 N",
+                                "1300 N",
+                                "1470 N",
+                                "1570 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2014",
+                            "question": "Un móvil de 2 kg a una velocidad de 12 m/s, en una trayectoria rectilínea, cuando se le aplica una fuerza externa de 200 N hace que la velocidad aumente a 48 m/s. ¿Cuál es el trabajo realizado durante la aplicación de esa fuerza?",
+                            "options": [
+                                "144 J",
+                                "260 J",
+                                "2160 J",
+                                "2304 J",
+                                "48 J"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "Una máquina de lavar ropas posee una potencia de 600 W y presenta un rendimiento del 70%. Calcular la potencia útil:",
+                            "options": [
+                                "240 W",
+                                "300 W",
+                                "420 W",
+                                "840 W",
+                                "210 W"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "Una máquina fue utilizada para elevar una carga de 1750 N a una altura de 2 m, con una velocidad constante. El rendimiento de la máquina es del 70%. Entonces la energía consumida por la máquina es de:",
+                            "options": [
+                                "5000 J",
+                                "3500 J",
+                                "1500 J",
+                                "4500 J",
+                                "6000 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "Un ascensor A transporta 1000 kg en 10 min, otro ascensor B 200 kg en 2 min. Ambos recorren la misma altura M entonces.",
+                            "options": [
+                                "A es más potente que B.",
+                                "A y B realizan igual trabajo",
+                                "A realiza mayor trabajo que B y ambos poseen igual potencia",
+                                "A realiza menos trabajo que B",
+                                "A al transportar una mayor carga que B es menos potente"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2015 SR, 2017 1P",
+                            "question": "Cuando un automóvil va a 36 km/h, la resistencia total que se opone a su movimiento es de 400 N. La potencia necesaria para mantenerlo en movimiento a esa velocidad es de:",
+                            "options": [
+                                "40 W",
+                                "4000 W",
+                                "4 W",
+                                "400 W",
+                                "360 W"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "Un cuerpo se mueve con cierta rapidez, si pierde la mitad de su masa, para conservar su energía cinética, la rapidez debe:",
+                            "options": [
+                                "Aumentar al doble",
+                                "Reducir a la cuarta parte",
+                                "Aumentar el 50%",
+                                "Disminuir el 50%",
+                                "Aumentar \\(\\sqrt{2}\\) veces"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2015 SR",
+                            "question": "¿Cuál de las proposiciones es la correcta?",
+                            "options": [
+                                "La energía mecánica de un sistema se conserva, aunque actúe sobre él una fuerza de fricción",
+                                "Si el trabajo de las fuerzas no conservativas es positivo, la energía mecánica permanece constante",
+                                "Si el sistema realiza trabajo sobre el medio, la energía mecánica disminuye",
+                                "Solo dos de las tres primeras son correctas",
+                                "Las tres primeras son correctas"
+                            ],
+                            "answer": "e"
+                        },
+                        {
+                            "year": "2015, 2017 SR",
+                            "question": "Un cuerpo pesa 40 N y cuelga a una altura de 15 m sobre el suelo. Si cae desde el reposo y despreciamos la resistencia del aire, cuando esté a 6 m del suelo su energía potencial Ep y su energía cinética Ec, expresadas en Joules serán:",
+                            "options": [
+                                "Ep = 360; Ec = 240",
+                                "Ep = 300; Ec = 300",
+                                "Ep = 240; Ec = 360",
+                                "Ep = 600; Ec = 100",
+                                "Ep = 36; Ec = 24"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2015",
+                            "question": "Un atleta de 70 kg consigue correr 100 m en 10 s. En un momento está entrenando salto alto. Según el principio de conservación de la energía, la máxima altura que el atleta podría alcanzar, teóricamente, admitiendo g= 10 m/s<sup>2</sup>, será de:",
+                            "options": [
+                                "5 m",
+                                "3 m",
+                                "9 m",
+                                "12 m",
+                                "0,5 m"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2016",
+                            "question": "Una pelota de 0,5 kg de masa es largada desde una altura de 30 m en un lugar de la Tierra donde g = 10 m/s<sup>2</sup>. Si la fuerza de resistencia del aire (se supone constante) consume 50 J de energía a lo largo de la caída, la velocidad de la pelota al llegar al suelo será:",
+                            "options": [
+                                "18 m/s",
+                                "20 m/s",
+                                "24 m/s",
+                                "27 m/s",
+                                "30 m/s"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2016, 2017, 2017 SR",
+                            "question": "Un objeto de 0,2 kg de masa es lanzado verticalmente hacia arriba con una energía cinética de 1000 J. Durante la subida, una energía de 200 J es disipada debido al rozamiento con el aire. Considere g = 10m/s<sup>2</sup>. La altura máxima, en m, que alcanza el objeto es de:",
+                            "options": [
+                                "200",
+                                "400",
+                                "500",
+                                "800",
+                                "1000"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2016",
+                            "question": "El motor de una bomba hidráulica tiene una potencia de 500 W. ¿En cuánto tiempo aproximadamente, esta bomba llena un reservorio de 1000 litros, colocado a 10 m de altura? considere g = 10 m/s<sup>2</sup> y desprecie el rozamiento del agua con la cañería.",
+                            "options": [
+                                "3 min",
+                                "200 s",
+                                "0,5 h",
+                                "20 s",
+                                "200 min"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2016",
+                            "question": "Un cuerpo de masa igual a 120 kg es desplazado horizontalmente en una superficie sin rozamiento por una fuerza de 30 N, que forma un ángulo de 30° en relación a la horizontal. El desplazamiento es de 25 m. ¿Cuál es aproximadamente el trabajo realizado?",
+                            "options": [
+                                "650 J",
+                                "65 J",
+                                "375 J",
+                                "6500 J",
+                                "0 J"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2016 SR",
+                            "question": "La energía cinética de un cuerpo al ser lanzado hacia arriba, es nula cuando:",
+                            "options": [
+                                "Llega a su altura máxima",
+                                "Cuando su energía cinética es igual a la energía potencial",
+                                "Cuando va en el punto medio de su ascenso",
+                                "Su energía potencial es cero",
+                                "Se duplica el recorrido"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2016 1P SR, 2018 SR",
+                            "question": "Un automóvil de 500 kg de masa es acelerado uniformemente a partir del reposo hasta una velocidad de 40 m/s en 10 s. La potencia desarrollada por ese automóvil, al completar esos 10 primeras segundos, será:",
+                            "options": [
+                                "160 kW",
+                                "80 kW",
+                                "40 kW",
+                                "20 kW",
+                                "10 kW"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Un cuerpo cae libremente del reposo desde una altura h del suelo. En una altura hx del suelo, la energía cinética es tres veces la energía potencial, que es medida tomando como referencia el nivel del suelo. Entonces hx es igual a:",
+                            "options": [
+                                "h",
+                                "h/2",
+                                "h/3",
+                                "h/4",
+                                "h/5"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Un auto de 750 kg que corría a 144 km/h aplicó los frenos hasta detenerse en 16 s. La energía cinética que tenía al mantenerlo en movimiento a esa velocidad es:",
+                            "options": [
+                                "30000 J",
+                                "600 kcal",
+                                "600000 J",
+                                "75000 J",
+                                "1000 CV"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Una persona sube una pendiente con velocidad constante en un minuto. Si la misma persona subiese la misma pendiente, también con velocidad constante, en dos minutos, ella realizará un trabajo:",
+                            "options": [
+                                "Dos veces mayor que el primero.",
+                                "Dos veces menor que el primero.",
+                                "Cuatro veces mayor que el primero.",
+                                "Cuatro veces menor que el primero.",
+                                "Igual al primero."
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Una locomotora ejerce una fuerza constante de 10<sup>5</sup> N para desplazarse en línea recta, con velocidad constante de 10 m/s. La potencia desarrollada por la locomotora en este caso fue:",
+                            "options": [
+                                "1.10<sup>3</sup> kW",
+                                "5.10<sup>5</sup> W",
+                                "0,5.10<sup>3</sup> W",
+                                "10<sup>3</sup> W",
+                                "5.10<sup>5</sup> W"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Un automóvil, en reposo, de 1550 kg de masa puede desarrollar una rapidez de 26,8 m/s en 7,1 s, entonces la potencia media necesaria para lograrlo es de:",
+                            "options": [
+                                "90 HP",
+                                "95 HP",
+                                "105 HP",
+                                "100 HP",
+                                "110 HP"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2017 1P, 2019 1P",
+                            "question": "Una bomba eléctrica cuya potencia es de 3000 W es capaz de elevar 500 kg de agua a una altura de 25 m, en 50 s. Entonces su rendimiento es, aproximadamente:",
+                            "options": [
+                                "80 %",
+                                "82 %",
+                                "84 %",
+                                "86 %",
+                                "90 %"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Las masas de dos cuerpos son entre sí como 1:2; sus rapideces cambian entre sí en la relación 1:2. Entonces, sus energías cinéticas son entre sí como:",
+                            "options": [
+                                "1/8",
+                                "1/4",
+                                "1/2",
+                                "1",
+                                "1/16"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2017",
+                            "question": "Cuando la velocidad de un cuerpo se cuadruplica y su masa se reduce a la cuarta parte, su energía cinética:",
+                            "options": [
+                                "aumenta 16 veces",
+                                "disminuye 8 veces",
+                                "aumenta 8 veces",
+                                "se cuadruplica",
+                                "disminuye cuatro veces"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2017 1P",
+                            "question": "Una piedra de 250 g se lanza verticalmente hacia arriba con la velocidad de 20 m/s. Entonces su energía cinética faltando 1 m para llegar al punto más alto es (g= 10 m/s<sup>2</sup>):",
+                            "options": [
+                                "2,5 J",
+                                "25 J",
+                                "50 J",
+                                "47,5 J",
+                                "95 J"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2017, 2021",
+                            "question": "Un cuerpo de 2 kg de masa, inicialmente en reposo, es empujado sobre una superficie horizontal sin rozamiento por una fuerza constante también horizontal de 4 N. ¿Cuál será su energía cinética después de recorrer 5 m?",
+                            "options": [
+                                "0 J",
+                                "20 J",
+                                "10 J",
+                                "40 J",
+                                "80 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2017 SR",
+                            "question": "Si un cuerpo cae libremente desde una altura h, la energía que el cuerpo poseía en el punto más alto, al llegar al suelo, despreciando el roce con el aire, se transforma totalmente en:",
+                            "options": [
+                                "cinética",
+                                "potencial",
+                                "mecánica",
+                                "potencia",
+                                "se anula"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2018 1P SR, 2019 1P SR",
+                            "question": "Para subir un plano inclinado sin rozamiento al 10%, un automóvil de 1000 kg, manteniendo una velocidad constante de 54 km/h, entrega una potencia útil que en CV (1 CV= 735 W), es aproximadamente de, adopte g= 10 m/s<sup>2</sup>:",
+                            "options": [
+                                "20",
+                                "40",
+                                "50",
+                                "100",
+                                "150"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2018",
+                            "question": "Encontrar la potencia desarrollada por el motor de un automóvil de 2000 kg que sube una pendiente del 3% a una velocidad constante de 72 km/h. Despreciar efectos de rozamiento.",
+                            "options": [
+                                "11994,6 W",
+                                "12994, 6 W",
+                                "13994, 6 W",
+                                "14994,6 W",
+                                "10994,6 W"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P, 2019 1P",
+                            "question": "Un bloque es abandonado a partir del reposo desde una altura de 4 m del suelo, en un lugar donde la aceleración de la gravedad es de 10 m/s<sup>2</sup>. Suponga que el 20% de su energía es disipada por la fuerza de resistencia del aire durante su caída. La velocidad, en m/s, con que el bloque llega al suelo es:",
+                            "options": [
+                                "10",
+                                "8,9",
+                                "8,3",
+                                "8,0",
+                                "7,6"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P",
+                            "question": "El motor que acciona una bomba es capaz de llenar un tambor de 200 litros de agua situado a 15 metros de altura en medio minuto. ¿Cuál es aproximadamente la energía mecánica que adquiere el agua una vez llenado el tambor? Adopte (g = 10 m/s<sup>2</sup>):",
+                            "options": [
+                                "Potencial de 3000 J",
+                                "30000 J",
+                                "13000 J",
+                                "300000 J",
+                                "1330 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P, 2018 1P SR, 2019 1P, 2019",
+                            "question": "Un proyectil de 300 g choca frontalmente con un muro de 25 cm de espesor a 80 m/s, el muro tiene una fuerza resistiva de 40 kgf. Determinar la variación de la energía cinética:",
+                            "options": [
+                                "98 J",
+                                "2236 J",
+                                "3226 J",
+                                "44250 J",
+                                "16635 J"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2018 1P SR",
+                            "question": "Cuando la masa de un cuerpo se reduce a las 2/3 partes y la rapidez que posee disminuye a las 3/4 partes, la energía cinética del cuerpo:",
+                            "options": [
+                                "aumenta a los 3/11",
+                                "disminuye a la octava parte",
+                                "disminuye a los 3/16",
+                                "disminuye a los 3/8",
+                                "aumenta 3/8 veces"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2018 1P SR",
+                            "question": "Un automóvil tiene masa de 1200 kg desciende una colina y, en el punto A, que está a una altura h del suelo, tiene una velocidad de 10 m/s estando con el motor apagado, desciende hasta detenerse en el punto 8, a 4 m del suelo. Considerando g = 10m/s<sup>2</sup> y sabiendo que en el trayecto AB, las fuerzas no conservativas realizaron un trabajo de módulo igual a 1,56.10<sup>5</sup> J. Concluimos que la altura del punto A es de:",
+                            "options": [
+                                "12 m",
+                                "14 m",
+                                "16 m",
+                                "18 m",
+                                "20 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2018 1P SR",
+                            "question": "Un proyectil de 80 kg es lanzado verticalmente hacia arriba con una velocidad inicial de 95 m/s. Se desea saber: ¿Qué energía potencial aproximadamente tendrá al alcanzar su altura máxima?",
+                            "options": [
+                                "341000 J",
+                                "351000 J",
+                                "371000 J",
+                                "381000 J",
+                                "361000 J"
+                            ],
+                            "answer": "e"
+                        },
+                        {
+                            "year": "2018 SR",
+                            "question": "Un auto a 60 km/h choca contra una pared sólida ¿Desde qué altura habría que hacerlo frenar para producir el mismo efecto?",
+                            "options": [
+                                "15,17 m",
+                                "18,17 m",
+                                "16,17 m",
+                                "12,17 m",
+                                "14,17 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2019",
+                            "question": "Una persona estira una caja de 5 kg a lo largo de un plano horizontal de 18 m, con velocidad constante. Siendo el coeficiente de rozamiento igual a 0,5. ¿Cuál será el trabajo en J, realizado por la fuerza en los 18 m de su trayectoria, si la fuerza lo formaba un ángulo de 45° con la horizontal?",
+                            "options": [
+                                "49,0",
+                                "34,6",
+                                "29,4",
+                                "623,6",
+                                "294,0"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2019 1P",
+                            "question": "Un bloque de 2 kg de masa es abandonado en un plano inclinado a 4 m de altura, el plano forma con la horizontal un ángulo de 30°, llega hasta la parte más baja del plano inclinado perdiendo el 20% de su energía mecánica con relación al suelo, g = 10 m/s<sup>2</sup>, la velocidad del bloque, en m/s, al llegar al suelo es de:",
+                            "options": [
+                                "6",
+                                "16",
+                                "4",
+                                "8",
+                                "32"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2019 2P, 2019 SR",
+                            "question": "Una persona de 80 kg, que intenta bajar de peso, desea subir una montaña para quemar el equivalente a una gran rebanada de pastel de chocolate tasada en 700 calorías (alimentarias). Entonces la persona debe ascender la altura, en metros, de:",
+                            "options": [
+                                "2,74",
+                                "3,74",
+                                "5,74",
+                                "4,74",
+                                "6,74"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2019 SR",
+                            "question": "Un proyectil de 5 kg de masa es lanzado verticalmente hacia arriba con velocidad inicial de 60 m/s, admitiendo g = 10 m/s<sup>2</sup>, la energía potencial, en Joules, que posee a los 3 s, sería de:",
+                            "options": [
+                                "6450",
+                                "6550",
+                                "6600",
+                                "6750",
+                                "6850"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2021",
+                            "question": "Un parque de diversiones que llegó al Paraguay presentó entre sus entretenimientos la montaña rusa. Suponiendo g = 10 m/s<sup>2</sup>, determinar con qué velocidad llega al punto B. El carrito partió de una altura de 8 m.",
+                            "imageURL": "https://drive.google.com/thumbnail?id=1FJyKXpPiJDib4sLCozc0RvLMDlltlXQr",
+                            "options": [
+                                "8000 m/s",
+                                "12,65 m/s",
+                                "18500 m/s",
+                                "8,100 m/s",
+                                "0,5 m/s"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2022",
+                            "question": "Un bloque de 0,25 kg atado a un hilo de peso despreciable e inextensible de 0,5 m de longitud, gira en un plano horizontal perfectamente liso con una frecuencia de 20 Hz. ¿En cuánto debe incrementarse la energía al bloque para duplicar su frecuencia? Considere 𝜋=3,15.",
+                            "options": [
+                                "1488,4 J",
+                                "496,1 J",
+                                "1984,5 J",
+                                "126 J",
+                                "63 J"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2022",
+                            "question": "Un hombre tira de un cuerpo de 40 kg por medio de una cuerda, aplicándole una fuerza inclinada de intensidad F. El coeficiente de rozamiento cinético vale 0,1. Sabiendo que el cuerpo se desliza en línea recta; la cuerda forma con la horizontal un ángulo de 60°; el trabajo total es igual a 18 J, en un desplazamiento de 4 m; g = 10 m/s<sup>2</sup>; sen 60° = 0,8; cos 60° = 0,5. ¿Cuál es el módulo de la fuerza F?",
+                            "options": [
+                                "500 N",
+                                "403,2 N",
+                                "300 N",
+                                "200 N",
+                                "76,7 N"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2022 1P CPAM",
+                            "question": "Sobre un plano inclinado y rugoso de pendiente 0,75 puede deslizar una masa de 15 kg. Si dicha masa se lanza hacia arriba recorre 2 m sobre dicho plano, siendo el coeficiente de rozamiento 0,8, ¿qué energía se ha perdido por el rozamiento? g = 10 m/s<sup>2</sup>",
+                            "options": [
+                                "192 J",
+                                "100 J",
+                                "200 J",
+                                "142 J",
+                                "600 J"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022 1P CPAM SR",
+                            "question": "La potencia de una locomotora es 2000 CV. ¿Cuál es la fuerza que la locomotora tiene cuando avanza con una velocidad de 72 km/h?",
+                            "options": [
+                                "73600 N",
+                                "2000 N",
+                                "20 N",
+                                "46 N",
+                                "80600 N"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2022 1P CPAM SR, 2022 Final CPAM H 2023 PreCPAM",
+                            "question": "El rendimiento de una máquina es del 60% y la potencia perdida es 250 W. Determinar la potencia útil suministrada por la máquina:",
+                            "options": [
+                                "650 W",
+                                "375 W",
+                                "250 W",
+                                "750 W",
+                                "300 W"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2022 Final CPAM H",
+                            "question": "Un bloque de 10 kg es levantado a una altura de 10 m en 10 s. ¿Cuál es la potencia media necesaria si g = 10 m/s<sup>2</sup>?",
+                            "options": [
+                                "1000 W",
+                                "100 W",
+                                "10 W",
+                                "100 HP",
+                                "100 CV"
+                            ],
+                            "answer": "a"
+                        },
+                        {
+                            "year": "2022 Final CPAM H",
+                            "question": "Una partícula sujeta a una fuerza resultante constante de 2 N se mueve sobre una recta. La variación de la energía cinética entre los puntos A y B es igual a 3 J. Calcular la distancia, en m, entre los puntos A y B.",
+                            "options": [
+                                "1,5",
+                                "2,5",
+                                "3,5",
+                                "4,5",
+                                "5,5"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2022 Final CPAM H",
+                            "question": "Un motor eleva una carga de 300 kg subiéndolo 3 m en un minuto. Determine, aproximadamente, la potencia del motor en HP.",
+                            "options": [
+                                "147 HP",
+                                "98 HP",
+                                "11,8 HP",
+                                "8,82 HP",
+                                "1,01 HP"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2022 Final CPAM H",
+                            "question": "Se deja caer desde la azotea de un edificio una masa de 2 kg. Al llegar a 9 m del suelo su energía cinética es de 411,6 J. Determina la altura del edificio, considerando que solo hay energía cinética y/o energía potencial.",
+                            "options": [
+                                "20 m",
+                                "25 m",
+                                "30 m",
+                                "60 m",
+                                "15 m"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2022 Final CPAM H",
+                            "question": "Un instante antes de chocar con el piso una masa de 2 kg y tiene 400 J de energía cinética. Despreciando la fricción y considerando g = 10 m/s<sup>2</sup>, ¿de qué altura se dejó caer dicha masa?",
+                            "options": [
+                                "100 m",
+                                "80 m",
+                                "60 m",
+                                "20 m",
+                                "40 m"
+                            ],
+                            "answer": "c"
+                        },
+                        {
+                            "year": "2022 Final CPAM A",
+                            "question": "Un bloque de 1 kg de masa se desplaza sobre una superficie lisa con energía cinética igual a 180 J, cuando penetra en una región rugosa se disipan por rozamiento 10% de la energía cinética inicial. La velocidad al final del trecho rugoso, en m/s, es:",
+                            "options": [
+                                "14",
+                                "15",
+                                "16",
+                                "18",
+                                "19"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2022 Final CPAM A",
+                            "question": "Un automóvil de 900 kg inicialmente en reposo, es colocado en movimiento por una fuerza F constante y adquiere, después de 10 s, una velocidad de 72 km/h. Determinar el trabajo realizado por la fuerza F, suponiendo que dicha fuerza es la resultante sobre el auto.",
+                            "options": [
+                                "6.10<sup>3</sup> J",
+                                "1,8.10<sup>5</sup> J",
+                                "7.10<sup>5</sup> J",
+                                "24,44.10<sup>5</sup> J",
+                                "0 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2023 PreCPAM",
+                            "question": "Calcular desde qué altura debe caer en punto muerto un automóvil de 7000 N de peso para que adquiera la misma energía cinética que si marchase a 90 km/h.",
+                            "options": [
+                                "25,45",
+                                "31,89",
+                                "45,65",
+                                "30,45",
+                                "28,84"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2023 1P, 2023 Final CPAM",
+                            "question": "Una niña de 20 kg se desliza por un tobogán de 2,5 m de altura. Llega al final con una velocidad de 2 m/s. ¿Cuánta energía se ha disipado en forma de calor? g = 10 m/s<sup>2</sup>.",
+                            "options": [
+                                "500 J",
+                                "460 J",
+                                "40 J",
+                                "40 J",
+                                "540 J"
+                            ],
+                            "answer": "b"
+                        },
+                        {
+                            "year": "2024 PreCPAM",
+                            "question": "El trabajo realizado al arrastrar un trineo sobre una pista horizontal, una distancia de 8 m, sabiendo que la cuerda ejerce una fuerza de 75 N formando un ángulo de 28º con la horizontal, aproximadamente, vale:",
+                            "options": [
+                                "8 N",
+                                "75 N",
+                                "40 N",
+                                "600 N",
+                                "530 N"
+                            ],
+                            "answer": "d"
+                        },
+                        {
+                            "year": "2024 1P CPAM",
+                            "question": "Un niño desciende en un tobogán de 10 m de altura, a partir del reposo. Considerando, aceleración de la gravedad igual a 10 m/s<sup>2</sup> y que 50% de la energía se disipa, determinar la velocidad con la que el niño llega a la base:",
+                            "options": [
+                                "20 m/s",
+                                "10 m/s",
+                                "30 m/s",
+                                "25 m/s",
+                                "35 m/s"
+                            ],
+                            "answer": "d"
                         }
                     ]
                 }
