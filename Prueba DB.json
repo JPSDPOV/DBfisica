@@ -150,7 +150,7 @@
                 {
                     "question": "En la figura, el vector R es igual a:",
                     "year": "2017 SR",
-                    "imageURL": "https://raw.githubusercontent.com/JPSDPOV/DBfisica/main/imagenes/VECTORES%2012.png",
+                    "imageURL": "https://raw.githubusercontent.com/JPSDPOV/DBfisica/main/imagenes/VECTORES12.png",
                     "options": [
                         "\\(\\vec{M} + \\vec{N} \\)",
                         "\\(\\vec{N} - \\vec{M} \\)",
@@ -10980,5 +10980,6 @@
         }
     }
 }
+
 
 
