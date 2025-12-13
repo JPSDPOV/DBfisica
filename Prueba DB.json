@@ -10013,7 +10013,7 @@
                         },
                         {
                             "year": "2006",
-                            "question": "Una luz tiene una frecuencia de 5.10⁴ Hz al pasar por un tanque que contiene acetona. La longitud de onda de esa luz en acetona, sabiendo que el índice de refracción es 1,36, vale:",
+                            "question": "Una luz tiene una frecuencia de 5.10¹⁴ Hz al pasar por un tanque que contiene acetona. La longitud de onda de esa luz en acetona, sabiendo que el índice de refracción es 1,36, vale:",
                             "options": [
                                 "6.10⁻⁷m",
                                 "4,41.10⁻⁷m",
@@ -10980,6 +10980,7 @@
         }
     }
 }
+
 
 
 
